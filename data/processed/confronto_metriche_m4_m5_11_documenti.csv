@@ -1,0 +1,12 @@
+﻿document_id,identita_vera,posizione_m4,posizione_m5,identita_trovata_m4,identita_trovata_m5,variazione_posizione_m5_meno_m4,top1_m4,top3_m4,top5_m4,top10_m4,mrr_contributo_m4,top1_m5,top3_m5,top5_m5,top10_m5,mrr_contributo_m5
+brawner-s_all_documents_159,sandra brawner,3,4,1,1,1,0,1,1,1,0.3333333333333333,0,0,1,1,0.25
+dasovich-j_all_documents_18375,jeff dasovich,11,1,0,1,-10,0,0,0,0,0.0,1,1,1,1,1.0
+davis-d_all_documents_440,dana davis,2,2,1,1,0,0,1,1,1,0.5,0,1,1,1,0.5
+haedicke-m_all_documents_92,mark haedicke,4,2,1,1,-2,0,0,1,1,0.25,0,1,1,1,0.5
+hernandez-j_all_documents_795,juan hernandez,11,11,0,0,0,0,0,0,0,0.0,0,0,0,0,0.0
+hyvl-d_all_documents_632,dan hyvl,1,2,1,1,1,1,1,1,1,1.0,0,1,1,1,0.5
+mckay-b_all_documents_7,caroline abramo,1,1,1,1,0,1,1,1,1,1.0,1,1,1,1,1.0
+ring-a_all_documents_86,andrea ring,2,3,1,1,1,0,1,1,1,0.5,0,1,1,1,0.3333333333333333
+symes-k_all_documents_898,kate symes,1,1,1,1,0,1,1,1,1,1.0,1,1,1,1,1.0
+tycholiz-b_all_documents_24,barry tycholiz,1,11,1,0,10,1,1,1,1,1.0,0,0,0,0,0.0
+ward-k_all_documents_271,chris foster,1,11,1,0,10,1,1,1,1,1.0,0,0,0,0,0.0

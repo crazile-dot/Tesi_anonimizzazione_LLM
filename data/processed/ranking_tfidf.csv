@@ -1,0 +1,7 @@
+﻿document_id,identita_vera,posizione_vera,top1,top5,candidato_1,punteggio_1,candidato_2,punteggio_2,candidato_3,punteggio_3,candidato_4,punteggio_4
+test\enron7\mcconnell-m_all_documents_720,mike mcconnell,1,1,1,mike mcconnell,0.269662,errol mclaughlin,0.224682,drew fossum,0.173604,scott neal,0.061233
+test\enron7\neal-s_all_documents_207,scott neal,4,0,1,errol mclaughlin,0.244917,mike mcconnell,0.166282,drew fossum,0.130917,scott neal,0.044644
+test\enron7\neal-s_all_documents_226,scott neal,4,0,1,errol mclaughlin,0.217429,mike mcconnell,0.202849,drew fossum,0.119393,scott neal,0.049474
+test\enron9\fossum-d_all_documents_436,drew fossum,1,1,1,drew fossum,0.526029,errol mclaughlin,0.230007,mike mcconnell,0.205419,scott neal,0.052527
+test\enron9\mcconnell-m_all_documents_915,mike mcconnell,1,1,1,mike mcconnell,0.226186,drew fossum,0.169578,errol mclaughlin,0.145846,scott neal,0.055067
+test\enron9\mclaughlin-e_all_documents_790,errol mclaughlin,1,1,1,errol mclaughlin,0.305448,mike mcconnell,0.226554,drew fossum,0.180309,scott neal,0.052718

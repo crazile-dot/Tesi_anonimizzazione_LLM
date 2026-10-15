@@ -1,0 +1,20 @@
+
+# Chiavi e segreti
+.env
+.env.*
+!.env.example
+
+# Ambiente Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# Dati e risultati della tesi
+data/raw/
+
+
+# File locali e log
+*.log
+
+# Backup locali
+*.zip

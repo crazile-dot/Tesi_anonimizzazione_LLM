@@ -1,0 +1,12 @@
+{
+  "document_id": "arnold-j_all_documents_1027",
+  "text_original": "Message-ID: <26099746.1072137182234.JavaMail.evans@thyme>\nDate: Thu, 28 Dec 2000 23:07:00 -0800 (PST)\nFrom: john.arnold@enron.com\nTo: jennifer.fraser@enron.com\nSubject: Re: NG YEAR ENd Quiz\nMime-Version: 1.0\nContent-Type: text/plain; charset=us-ascii\nContent-Transfer-Encoding: 7bit\n\nfill me in.  how can i eavesdrop??\n\n\nTo: John Arnold /HOU/ECT@ECT\ncc:  \nSubject: Re: NG YEAR ENd Quiz  \n\nI belong to a natgas discussion group on the internet. This is from one of \nthe guys. Basically they are a bunch of gastraders from various firms ( a lot \nof producers, some industrials, some small shops and few i--banker types) I \nfound the test to be mildly amusing. And since I had no idea what 'club no \nminors' was-- i was hoping for some insight from you guys. Fortunately, the \nlovely Ms. Shipos was able to fill me in.\n\nAnyway, while occasionally garbage, the discussions do provide insight on \nwhat others are thinking of production, storage and other such matters. And \nwhen I was a marketer, I found a few leads. Finally, since a lot of the \ninformation revolves around gossip about a particular 'super trader' at the \nbig ENE , i find it amusing that one of the most reserved and modest \nindividuals I know is so talked about on the internet.\n\nJF",
+  "entities": [
+    {
+      "type": "PERSON",
+      "text": "John Arnold",
+      "start": 325,
+      "end": 336
+    }
+  ]
+}

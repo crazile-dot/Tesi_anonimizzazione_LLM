@@ -1,0 +1,681 @@
+﻿document_id,relative_path,split,from_email,annotation_count,unique_person_count,annotated_names
+badeer-r_all_documents_39,test\enron7\badeer-r_all_documents_39,test,office.chairman@enron.com,15,15,Beth Tilney | Dan Leff | Harold Buchanan | Jeremy Blachman | Joe Earle | Kevin Hughes | Lou Pai | Mark Dobler | Mark Muller | Marty Sunde | Matthew Scrimshaw | Tom White | Vice | Vice Chairman | Vicki Sharp
+bailey-s_all_documents_10,test\enron7\bailey-s_all_documents_10,test,outlook.team@enron.com,0,0,
+beck-s_all_documents_2848,test\enron7\beck-s_all_documents_2848,test,sally.beck@enron.com,10,8,Kathryn | Kathryn Cordes | Kim | Kim S Theriot | Kim Theriot | Leslie Reeves | Sally | Sally Beck
+benson-r_all_documents_43,test\enron7\benson-r_all_documents_43,test,nmiyagi@reedwasden.com,4,4,Cary | Noriko Miyagi | Peter | Steve
+benson-r_all_documents_49,test\enron7\benson-r_all_documents_49,test,anna.santucci@enron.com,2,2,Anna Santucci | Mark Symms
+cash-m_all_documents_70,test\enron7\cash-m_all_documents_70,test,michelle.cash@enron.com,11,10,Christopher | Christopher Deehy | Dolores Lenfest | Gustavo Junqueira | Jay Boudreaux | Johanne Berthiaume | Mark | Mark Greenberg | Michelle | Michelle Cash
+corman-s_all_documents_20,test\enron7\corman-s_all_documents_20,test,elizabeth.brown@enron.com,8,5,Elizabeth | Elizabeth Brown | John | John Morris | John R. Morris
+davis-d_all_documents_192,test\enron7\davis-d_all_documents_192,test,dana.davis@enron.com,12,6,Dana Davis | Eve | Julie Torres | Kevin Jolly | Rebecca Sanchez | Rufino Doroteo
+davis-d_all_documents_440,test\enron7\davis-d_all_documents_440,test,dana.davis@enron.com,68,62,ANSON DELL MADISON | anthony mcdonald | April Mathews | bernarshia roshaye watson | Brandy Douglas | breland siller | Calvin Devaye Williams | Chimere Chante Nash | CHRISTOPHER WARD | Christopher Ward | Christopher Wardell Collins | Dale Zimmerman | Danielle Monique Ardoin | DARYL PAUL GOSPEL | David Wilson | Dee Janette Starr | Derrick Zimmerman | Disha Ward | Emma Hamilton | Erica Young | Genesis R. Louis | Jen | Jennifer | Jennifer Armstrong | jennifer armstrong | jennnifer armstrong < | Jerry Lee | Jerushka Smith | Jonathan Ledoux | Kara Wilson | Ke | Lamont Collins | LATONYA ROBINSON | Lorenzo Brown | Mario Jarrell Elliot | Miesha Fortner | MO LLOYD | Nakedra Rashard Higgins | Natasha Wilson | nicole kirklin | NIKKI WINSTON | Quin | Quinton D. LaPoole | Raimone Wilson | Shakeya Vashon Bennett | sharon pollard | Sharon Robinson | Sharonda Reitzell | Shelaksa Mack | SHETOCQUIE WILLIS | Shirley Jones | SHIRLEY JONES < | Susana Haro | Talissha Madean Robinson | TAMBRE PASTER | Tara Collins | Tessa __________________________________________________ | Timesha Nicole Dugas | tonya davis | Tyiska MeCole Roe | Walter Collins | Wilson
+derrick-j_all_documents_126,test\enron7\derrick-j_all_documents_126,test,james.derrick@enron.com,7,7,Carrin | Glen Rosenbaum | James | James Derrick | Jeff A Sokoloff | Jeff Sokoloff ________________________________________________________________ | Martin Comindsky
+dickson-s_all_documents_171,test\enron7\dickson-s_all_documents_171,test,stacy.dickson@enron.com,1,1,Meredith
+dickson-s_all_documents_29,test\enron7\dickson-s_all_documents_29,test,stacy.dickson@enron.com,0,0,
+donohoe-t_all_documents_108,test\enron7\donohoe-t_all_documents_108,test,ken.skilling@enron.com,1,1,"James V. Derrick, Jr."
+donohoe-t_all_documents_130,test\enron7\donohoe-t_all_documents_130,test,bucky.dusek@enron.com,3,3,Bucky Dusek | David Oliver | Tom
+donohoe-t_all_documents_79,test\enron7\donohoe-t_all_documents_79,test,enerfax1@bellsouth.net,0,0,
+dorland-c_all_documents_337,test\enron7\dorland-c_all_documents_337,test,chris.dorland@enron.com,3,3,Brad | Chris | Mackenzie
+fischer-m_all_documents_21,test\enron7\fischer-m_all_documents_21,test,john.ruiz@enron.com,0,0,
+germany-c_all_documents_2702,test\enron7\germany-c_all_documents_2702,test,chris.germany@enron.com,11,4,Chris Germany | Darla | Darla Saucier | Jim Homco
+giron-d_all_documents_230,test\enron7\giron-d_all_documents_230,test,darron.giron@enron.com,14,9,Darron C Giron | Jeff | Jeffrey C Gossett | Jennifer | Jennifer Nguyen | Kam Keiser | Keith Holst | Phillip Allen | Phillip M Love
+giron-d_all_documents_317,test\enron7\giron-d_all_documents_317,test,darron.giron@enron.com,32,31,Bob Bowen | Celeste Cisneros | Cindy Feldman | Darron C Giron | David Baumbach | Debbie R Brackett | Derek Bailey | Diane Anderson | Dianne Seib | Ellen Wallumrod | Errol McLaughlin | Janie Aguayo | Jean Bell | Jeffrey C Gossett | Kam Keiser | Kevin Meredith | Kim S Theriot | Larry Joe Hunter | Lesli Campbell | Leslie Reeves | Linda Sietzema | Melinda Whalen | Nidia Mendoza | Patricia Boulanger | Phillip M Love | Russell Diamond | Sharon Crawford | Tiffany Williams | Veronica Espinoza @ | Veronica Gonzalez | Walter Guidroz
+giron-d_all_documents_671,test\enron7\giron-d_all_documents_671,test,darron.giron@enron.com,14,12,Anne Bike | Chris Walker | Darron C Giron | David Baumbach | Dutch Quigley | Frank | Jason Wolfe | Jennifer Bagwell | Kam Keiser | Kyle Etter | Neal D Winfree | Pat Ryder
+griffith-j_all_documents_54,test\enron7\griffith-j_all_documents_54,test,lisa.druzbik@enron.com,7,5,Dominion Volumes Lisa | John | Kelli | Kelli Little | Lisa Druzbik
+grigsby-m_all_documents_111,test\enron7\grigsby-m_all_documents_111,test,perfmgmt@enron.com,1,1,"GIRON, DARRON"
+grigsby-m_all_documents_379,test\enron7\grigsby-m_all_documents_379,test,mike.grigsby@enron.com,1,1,Mike Grigsby
+hendrickson-s_all_documents_12,test\enron7\hendrickson-s_all_documents_12,test,im-urlaub@t-online.de,1,1,scott
+hernandez-j_all_documents_795,test\enron7\hernandez-j_all_documents_795,test,juan.hernandez@enron.com,2,2,"G.W. ""frat boy"" Bush | John Ashcroft"
+horton-s_all_documents_258,test\enron7\horton-s_all_documents_258,test,walt.zimmerman@enron.com,4,4,Nancy | Nancy Manderson | Phillip Bair | Susan
+hyvl-d_all_documents_1959,test\enron7\hyvl-d_all_documents_1959,test,dan.hyvl@enron.com,6,5,Clarence Mitchell | Dan J Hyvl | Debra | Debra Perlingiere | Phil DeMoes
+hyvl-d_all_documents_632,test\enron7\hyvl-d_all_documents_632,test,dan.hyvl@enron.com,1,1,Charlotte
+jones-t_all_documents_2763,test\enron7\jones-t_all_documents_2763,test,tana.jones@enron.com,5,4,Brent | Michael Neves | Scott | Tana Jones
+jones-t_all_documents_9515,test\enron7\jones-t_all_documents_9515,test,mark.greenberg@enron.com,2,2,Carol | Mark
+kaminski-v_all_documents_3660,test\enron7\kaminski-v_all_documents_3660,test,vince.kaminski@enron.com,23,14,Beth Miertschin | Christie Patrick | Cindy Derecskey | Jeff Shankman | Jeffrey A Shankman | Jennifer | Jennifer Burns | Kristin Gandy | Mark Palmer | Michele Nezi Marvin | Sarah Mulholland | Shirley Crenshaw | Vince | Vince J Kaminski
+kean-s_all_documents_114,test\enron7\kean-s_all_documents_114,test,steven.kean@enron.com,3,3,Bryson | Lauren Cox | Peggy Menchaca
+kean-s_all_documents_11587,test\enron7\kean-s_all_documents_11587,test,richard.shapiro@enron.com,5,4,Ken Lay | Richard Shapiro | Sam | Sierra
+kean-s_all_documents_3564,test\enron7\kean-s_all_documents_3564,test,steven.kean@enron.com,26,25,Beth Tilney | Beverly Aden | Bobbie Power | Carol Moffett | Chris Reedy | Cindy Olson | Cris Kinsler | Dan Leff | Harold G Buchanan | Jeremy Blachman | Judy G Smith | Karen Owens | Karen S Owens | Kathryn Greer | Kathy Dodgen | Leasa Lopez | Mark S Muller | Marty Sunde | Maureen McVicker | Peggy Mahoney | Ray Bennett | Sharon Dick | Steven J Kean | Thomas E White | Vicki Sharp
+keavey-p_all_documents_375,test\enron7\keavey-p_all_documents_375,test,enron.announcements@enron.com,15,15,Chrishelle Berell | David Hoog | James Morgan | Jeff Nutt | Jeffrey Skilling | Joe Parks | Keegan Farrell | Margaret Whitman | Mike Purcell | Paul Murray | Philip Purcell | Samuel Enochian | Steve Ballmer | W. Randall Jones | Yong Yi
+keavey-p_all_documents_4,test\enron7\keavey-p_all_documents_4,test,public.relations@enron.com,0,0,
+keavey-p_all_documents_83,test\enron7\keavey-p_all_documents_83,test,hotdeals@bestfares.com,0,0,
+kuykendall-t_all_documents_145,test\enron7\kuykendall-t_all_documents_145,test,tori.kuykendall@enron.com,1,1,sheri
+lavorato-j_all_documents_1080,test\enron7\lavorato-j_all_documents_1080,test,kimberly.hillis@enron.com,14,14,Bill Bradford | Dave | Derek Davies | Elliot Mainzer | Greg Whalley | John | Julia Murray | Mark Frevert | Mark Haedicke | Peter Keohane | Rick Buy | Rob Milnthorp | Ted Murphy | Tim Belden
+lay-k_all_documents_1026,test\enron7\lay-k_all_documents_1026,test,michael.horning@enron.com,8,5,Jeff | Jeff Skilling | Ken | Michael Horning | Michael P. Horning
+linder-e_all_documents_785,test\enron7\linder-e_all_documents_785,test,cara.semperger@enron.com,5,5,Diane | Donald | Lisa | Stacy | Susie
+lokay-m_all_documents_231,test\enron7\lokay-m_all_documents_231,test,donna.vaughn@enron.com,0,0,
+maggi-m_all_documents_15,test\enron7\maggi-m_all_documents_15,test,mike.maggi@enron.com,0,0,
+mcconnell-m_all_documents_720,test\enron7\mcconnell-m_all_documents_720,test,mike.mcconnell@enron.com,8,7,Cole | Dorothy | JMoore | John | Mike | mike | Mike McConnell
+merriss-s_all_documents_114,test\enron7\merriss-s_all_documents_114,test,kathryn.sheppard@enron.com,1,1,Kathy
+neal-s_all_documents_207,test\enron7\neal-s_all_documents_207,test,scott.neal@enron.com,17,15,Anderson Mohle | Brett Neal | Colton | Colton Robey | Connor Dougherty | Eric Hurst | Jane Evans | Jeff | Jim West | Michael Swearingin | Randy Crump | Scott Neal | Steve Evans | Will McCallum | William Crump
+neal-s_all_documents_226,test\enron7\neal-s_all_documents_226,test,scott.neal@enron.com,4,4,Chris Germany | kimberly | Kimberly Brown | Scott Neal
+neal-s_all_documents_73,test\enron7\neal-s_all_documents_73,test,sabra.dinari@enron.com,11,9,"Dinari, Sabra L. | Kam | Keiser, Kam | Neal, Scott | Sabra | Scott | Scott Neal | Tian, Yuan | Yuan"
+nemec-g_all_documents_2677,test\enron7\nemec-g_all_documents_2677,test,gerald.nemec@enron.com,2,2,Bracewell | Patterson
+ring-a_all_documents_86,test\enron7\ring-a_all_documents_86,test,andrea.ring@enron.com,28,15,Andrea Ring | Carey M Metz | Charles H Otto | Chris | Chris Gaskill | Dick Jenkins | Keith Holst | Marc Bir | Matthew Lenhart | Mike Grigsby | Ross Prevatt | Scott Hendrickson | Susan W Pereira | Tara Piazze | Victoria Versen
+rodrique-r_all_documents_220,test\enron7\rodrique-r_all_documents_220,test,robin.rodrigue@enron.com,0,0,
+rodrique-r_all_documents_568,test\enron7\rodrique-r_all_documents_568,test,robin.rodrigue@enron.com,1,1,Robin
+rogers-b_all_documents_1903,test\enron7\rogers-b_all_documents_1903,test,benjamin.rogers@enron.com,1,1,Ben
+ruscitti-k_all_documents_247,test\enron7\ruscitti-k_all_documents_247,test,kevin.ruscitti@enron.com,1,1,Kevin
+ruscitti-k_all_documents_421,test\enron7\ruscitti-k_all_documents_421,test,cynthia.boseman-harris@enron.com,0,0,
+shankman-j_all_documents_223,test\enron7\shankman-j_all_documents_223,test,jeffrey.shankman@enron.com,0,0,
+shapiro-r_all_documents_942,test\enron7\shapiro-r_all_documents_942,test,baran1@aol.com,3,3,Joe Synan | Rick | Rick Shapiro
+shively-h_all_documents_152,test\enron7\shively-h_all_documents_152,test,hunter.shively@enron.com,11,10,Allan Severude | Cindy Cicchetti | Colleen Sullivan | Hunter S Shively | Jayant Krishnaswamy | Jeffrey C Gossett | Phillip K Allen | Russ Severson | Russell Long | Scott Mills
+shively-h_all_documents_267,test\enron7\shively-h_all_documents_267,test,hunter.shively@enron.com,6,5,Chris Gaskill | Geoff Storey | Hunter S Shively | John P Tollefsen | Terry Furches
+skilling-j_all_documents_1403,test\enron7\skilling-j_all_documents_1403,test,joannie.williamson@enron.com,11,8,Cindy | Cindy Olson | DeWolff Boberg | Jeff Skilling | Joannie Williamson | Scott Bein | Skilling | Tony Kishindo
+smith-m_all_documents_43,test\enron7\smith-m_all_documents_43,test,matt.smith@enron.com,2,2,Mathew Smith | Pedro
+stclair-c_all_documents_572,test\enron7\stclair-c_all_documents_572,test,carol.clair@enron.com,7,6,Brando | Brando Hayden | Carol | Carol St Clair | Jason | Mark Tawney
+stepenovitch-j_all_documents_162,test\enron7\stepenovitch-j_all_documents_162,test,rhonda.denton@enron.com,0,0,
+storey-g_all_documents_52,test\enron7\storey-g_all_documents_52,test,zhiyong.wei@enron.com,5,5,"geof | Geoff | Storey, Geoff | Wei, Zhiyong | Zhiyong"
+symes-k_all_documents_898,test\enron7\symes-k_all_documents_898,test,kate.symes@enron.com,4,4,Kate | Kate Symes | Sharen Cason | Stan Cocke
+taylor-m_all_documents_1711,test\enron7\taylor-m_all_documents_1711,test,tana.jones@enron.com,11,10,Chris Catt | David | David Forster | David Minns | Heidi Mason | Mark Taylor | Paul Quilkey | Paul Smith | Susan Musch | Tana Jones
+tholt-j_all_documents_155,test\enron7\tholt-j_all_documents_155,test,jane.tholt@enron.com,8,7,"Baird | Baird, Steven L. - | Drew Cluff | Hemmerly, James A. | Jane M Tholt | Jim Hemmerly | Steven L."
+townsend-j_all_documents_76,test\enron7\townsend-j_all_documents_76,test,judy.townsend@enron.com,2,2,Alan Lambeth | Judy Townsend
+ward-k_all_documents_116,test\enron7\ward-k_all_documents_116,test,dave.fuller@enron.com,10,6,Dave | Dave Fuller | Dave Plumb | Hutchens | Jan | Kim
+ward-k_all_documents_250,test\enron7\ward-k_all_documents_250,test,chris.foster@enron.com,2,2,Francis Mcalister | Vito
+ward-k_all_documents_271,test\enron7\ward-k_all_documents_271,test,chris.foster@enron.com,13,8,Chris H Foster | Christopher McKey | Durga Waite | Joe Robertson | Kim | Michael Farmer | Pignatelli | Steve Lynn
+whalley-g_all_documents_354,test\enron7\whalley-g_all_documents_354,test,chris.abel@enron.com,1,1,Chris Abel
+wheldon-c_all_documents_101,test\enron7\wheldon-c_all_documents_101,test,v.weldon@enron.com,1,1,Charlie Weldon
+wheldon-c_all_documents_286,test\enron7\wheldon-c_all_documents_286,test,matthew.tezyk@enron.com,8,6,Bill Fox | Darrell Stovall | Douglas Ottens | Mathew Gimble | Matthew Tezyk | Scott Churbock
+wheldon-c_all_documents_305,test\enron7\wheldon-c_all_documents_305,test,david.fairley@enron.com,7,7,"Breese, Mark | Doug | Doug Leach | Fairley, David | Mark | McMichael, Ed | Weldon, V Charles"
+white-s_all_documents_136,test\enron7\white-s_all_documents_136,test,tdroupy@e2communications.com,1,1,Travis Droupy
+williams-j_all_documents_12,test\enron7\williams-j_all_documents_12,test,lee.steele@enron.com,2,2,Jason R Williams | Lee Steele
+ybarbo-p_all_documents_23,test\enron7\ybarbo-p_all_documents_23,test,todd.peterson@enron.com,19,11,Coralina Rivera | Dan Rogers | Gerg | Jane Michalek | Nancy Corbet | Paul Y'Barbo | Rick | Rick Bergsieker | Todd | Todd Peterson | Wayne Perry
+ybarbo-p_all_documents_76,test\enron7\ybarbo-p_all_documents_76,test,shubh.shrivastava@enron.com,11,10,Anshuman Srivastav | Bruce Lundstrom | Clay Harris | Daniel R Rogers | Neil McGregor | Robert Mathis | Shubh | Shubh Shrivastava | Wade Cline | Wayne Perry
+zipper-a_all_documents_60,test\enron7\zipper-a_all_documents_60,test,david.forster@enron.com,2,2,Dave | John
+badeer-r_all_documents_182,test\enron9\badeer-r_all_documents_182,test,drew_a_brabb@calpx.com,2,2,Bob | Drew
+bailey-s_all_documents_15,test\enron9\bailey-s_all_documents_15,test,enron.announcements@enron.com,2,2,Lisa Mellencamp | Michael Tribolet
+baughman-e_all_documents_331,test\enron9\baughman-e_all_documents_331,test,patrick.hanse@enron.com,3,2,Patrick Hanse | Tamara Jae Black
+benson-r_all_documents_27,test\enron9\benson-r_all_documents_27,test,enron.announcements@enron.com,1,1,Stephanie E. Taylor
+brawner-s_all_documents_159,test\enron9\brawner-s_all_documents_159,test,sandra.brawner@enron.com,3,3,Sam | Sandra Brawner | Sandra F Brawner
+buy-r_all_documents_128,test\enron9\buy-r_all_documents_128,test,steve.young@enron.com,21,16,G Novokovic | Goran Novokovic | Henkka Talvitie | Ilkka Kokko | J Nowlan | John L Nowlan | John Nowlan | K Beasley | Kevin | Kevin Beasley | Nigel Sellens | Nowlan | Robert Quick | Sally | Steve W Young | Ted
+buy-r_all_documents_72,test\enron9\buy-r_all_documents_72,test,rick.buy@enron.com,1,1,Rick
+campbell-l_all_documents_280,test\enron9\campbell-l_all_documents_280,test,arnold.eisenstein@enron.com,7,6,Arnold | Arnold Eisenstein | Arnold L Eisenstein | John J. Mcilvoy | John March | John McIlvoy
+campbell-l_all_documents_907,test\enron9\campbell-l_all_documents_907,test,denny@dsourceva.com,3,3,Anne | Denny Reinke | Larry
+carson-m_all_documents_22,test\enron9\carson-m_all_documents_22,test,mike.carson@enron.com,2,2,Besch | Kalberg
+cash-m_all_documents_313,test\enron9\cash-m_all_documents_313,test,michelle.cash@enron.com,9,8,Belinda McGaughy | LaQuitta | Melissa Laing | Michelle Cash | Nowa Sarznya | Pam | Pam Butler | Trakya Elektrik
+corman-s_all_documents_6,test\enron9\corman-s_all_documents_6,test,lorna.brennan@enron.com,5,5,Deb Macdonald | Larry F. Altenbaumer | Macdonald | Mark Menis | Richard D. Kinder
+cuilla-m_all_documents_62,test\enron9\cuilla-m_all_documents_62,test,airam.arteaga@enron.com,3,3,Airam Arteaga | Madeleine Cardoso | WHARTON ZOOEY
+dasovich-j_all_documents_18375,test\enron9\dasovich-j_all_documents_18375,test,jeff.dasovich@enron.com,95,84,"Andy | Battin | Bill | Bill Woods | Bob | Bob Ellery | Bob Escalante | Bowen | Brown | Carlson | Carolyn Baker | Chris Ellison | Cody Carter | Cogdill | Cohn | Craig Chancellor | Curt Hatton | Curtis Kebler | Davi | Dean Gosselin | Doug Fernley | Doug Kerner | Duane Nelson | Dunn | Ed Tomeo | Eileen Koch | Eric Eisenman | Firebaugh | Frank DeRosa | Gates | Greg Blue | Hap Boyd | Hickok | Jack Hawks | Jack Pigott | Jan Smutny Jones | Jan Smutny-Jones | Jean Munoz | Jeff Dasovich | Jim | Joe Greco | John Stout | Jonathan Weisgall | Julee Malinowski | Julee Malinowski-Ball | Kassandra Gough | Kate Castillo | Katie Kaplan | Keeley | Kelley | Ken Hoffman | kent | La Suer | Larrea, John | Lynn Lednicky | McFadden | Migden | Nam Nguyen | Pacheco | Palmerton | Parquet | Paula Soos | Quan-Hill, Danielle | Rand | Richard Hyde | Robert | Robert Lamkin | Roger Pelote | Ronan | Ross Ain | Senators Bowen | Sher | Speier | Stephanie Newell | Steve Iliff | Steve Ponder | Steven Kelley | Steven Kelly | Sue Mara | Tony Wetzel | Weisenmiller | Willey | William Hall | Wright"
+dean-c_all_documents_265,test\enron9\dean-c_all_documents_265,test,lloyd.will@enron.com,14,10,Catherine Muckerman | Clint Dean | Frank Busot | Jeffrey Miller | Jim Homco | Lloyd Will | Lucinda J. Saporta | Robert Skaggs | Smith L Day | Tom May
+dean-c_all_documents_328,test\enron9\dean-c_all_documents_328,test,perfmgmt@enron.com,2,2,"DAHLKE, ANDREA | THOMPSON, KERRI"
+donohoe-t_all_documents_154,test\enron9\donohoe-t_all_documents_154,test,dean.sacerdote@enron.com,27,24,"Charla Reese | Daniel Ajtai | David O'Hearn | Dayem Khandker | Dean Sacerdote | Deborah McArthur | Evelyn Aucoin | Jeffcoat, Christopher A | Kate Lykes | Katherine Benedict | Katherine Crosswhite | Keiser, Jeanelle | Lacye Trevino | Laurie Davidson | Lillian Carroll | lisa | Melissa Jones | Mirna Mejia | Monica Jackson | Newman, Linda | Ryan Hinze | Thomas Ryan | Tracy Greene | William Ryan"
+donohoe-t_all_documents_40,test\enron9\donohoe-t_all_documents_40,test,enron.announcements@enron.com,2,2,Ken | Ken Lay
+donohoe-t_all_documents_88,test\enron9\donohoe-t_all_documents_88,test,enron.announcements@enron.com,2,2,Jeff | Ken
+ermis-f_all_documents_92,test\enron9\ermis-f_all_documents_92,test,enron.announcements@enron.com,36,36,Alejandra Chavez | Anil Chandy | Barbara | Barbara Gray | BARBARA GRAY | Brad Miller | Carmella Jones | Carol Coats | Chuchu Wang | Clarissa Garcia | Eva Rainer | Farouk Lalji | Georgian Landau | Gloria Solis | Ina Rangel | Irma Alvarez | Jackie Griffith | Jennifer Blay-Smith | JoAnne Underwood | John Coleman | John Harrison | Juan Padron | Julie Gomez | Kathryn Bus | Kathy Benedict | Mark Wadlington | Marty Cates | Mike McConnell | Nancy Haralson | Rick Bergseiker | Rufino Durante | Smith Day | Stacey White | Steven Gillespie | Taylor | Veronica Parra
+farmer-d_all_documents_2369,test\enron9\farmer-d_all_documents_2369,test,daren.farmer@enron.com,2,2,Daren | Virginia
+fischer-m_all_documents_49,test\enron9\fischer-m_all_documents_49,test,alaadin.suliman@enron.com,2,2,Alaadin | Mark
+fossum-d_all_documents_436,test\enron9\fossum-d_all_documents_436,test,drew.fossum@enron.com,7,7,Darveaux | Drew Fossum | Glen Hass | Janet | Mary Kay Miller | Shelley Corman | Susan Scott
+fossum-d_all_documents_842,test\enron9\fossum-d_all_documents_842,test,jeffery.fawcett@enron.com,21,11,Drew Fossum | George | George Briden | James Centilli | Jeffery Fawcett | Keith Petersen | Kevin Hyatt | Rod Hayslett | Ronald Matthews | Steven Harris | Susan Scott
+germany-c_all_documents_1470,test\enron9\germany-c_all_documents_1470,test,joan.veselack@enron.com,8,8,Chris | Cindy | Hans Rottman | Jeff | Jesse | John | John Whited | Scott
+griffith-j_all_documents_88,test\enron9\griffith-j_all_documents_88,test,lacye.trevino@enron.com,6,6,John Griffith | Kelli Little | Lacye Trevino | Lisa Druzbik | Sarah Taylor | Tom Byargeon
+grigsby-m_all_documents_222,test\enron9\grigsby-m_all_documents_222,test,mike.grigsby@enron.com,1,1,MIke
+grigsby-m_all_documents_43,test\enron9\grigsby-m_all_documents_43,test,evening@ino.com,1,1,Paul Forchione
+guzman-m_all_documents_1103,test\enron9\guzman-m_all_documents_1103,test,jesse.bryson@enron.com,1,1,Jesse
+guzman-m_all_documents_2037,test\enron9\guzman-m_all_documents_2037,test,mark.guzman@enron.com,1,1,Char
+guzman-m_all_documents_62,test\enron9\guzman-m_all_documents_62,test,kimberly_kirkwood@hotmail.com,2,2,KIM | Lawrence Brotherton
+haedicke-m_all_documents_5133,test\enron9\haedicke-m_all_documents_5133,test,sheila.knudsen@enron.com,1,1,Sheila Knudsen
+haedicke-m_all_documents_92,test\enron9\haedicke-m_all_documents_92,test,mark.haedicke@enron.com,2,2,Mark | Martin
+hendrickson-s_all_documents_34,test\enron9\hendrickson-s_all_documents_34,test,scharnberger-armin@t-online.de,2,1,Armin
+hendrickson-s_all_documents_43,test\enron9\hendrickson-s_all_documents_43,test,scharnberger-armin@t-online.de,4,3,Armin | Melissa | scott
+hernandez-j_all_documents_221,test\enron9\hernandez-j_all_documents_221,test,julissa.marron@enron.com,49,48,Adnan Patel | Adrial Boals | Albert Escamilla | Amber Ebow | Angie Crowe | Anthony Campos | Avril Forster | Bernice Rodriguez | Bill D Hare | Brian Heinrich | Bridgette Anderson | Cheryl Johnson | Christopher Hargett | Cyndie Balfour-Flanagan | Faye Ellis | Georgi Landau | Gloria Roberson | James Scribner | Jason Moore | Jean Killough | Jeff Klotz | Julissa | Julissa Marron | Karen Lambert | Kathryn Pallant | Kelly Lombardi | Kevin Richardson | Linda S Bryan | Lisa Woods | Marilyn Colbert | Marlene Hilliard | Mary G Gosnell | Michael Eiben | Michelle Laurant | Remi Otegbola | Ruby Kyser | Samuel Schott | Shari Mao | Sharon Gonzales | Stacey Richardson | Stacie Guidry | Steve Venturatos | Susan Elledge | Suzanne Nicholie | Syed Ahmed | Sylvia A Campos | Tammie Huthmacher | Willie Harrell
+horton-s_all_documents_232,test\enron9\horton-s_all_documents_232,test,louis.soldano@enron.com,0,0,
+jones-t_all_documents_4272,test\enron9\jones-t_all_documents_4272,test,mark.taylor@enron.com,9,7,Brent Hendry | Carlos Alatorre | D. Forster & | Leonardo Pacheco | Mark | Mark Taylor | Patrick Hansen
+kaminski-v_all_documents_486,test\enron9\kaminski-v_all_documents_486,test,iris.mack@enron.com,10,8,"Chaney, Craig | Craig | Detiveaux, Kim | Dhar, Amitava | Kim | Kim Detiveaux | Mack, Iris | Mike Mumford"
+kean-s_all_documents_9103,test\enron9\kean-s_all_documents_9103,test,jimmy.mogal@enron.com,2,2,Jimmy | John Ambler
+keavey-p_all_documents_408,test\enron9\keavey-p_all_documents_408,test,soblander@carrfut.com,3,1,Carr Futures
+king-j_all_documents_14,test\enron9\king-j_all_documents_14,test,perfmgmt@enron.com,3,3,"KING, JEFF N, | LEWIS, JON | VALDERRAMA, LARRY"
+kuykendall-t_all_documents_179,test\enron9\kuykendall-t_all_documents_179,test,tori.kuykendall@enron.com,1,1,Katy
+lavorato-j_all_documents_1122,test\enron9\lavorato-j_all_documents_1122,test,shawn.anderson@enron.com,1,1,John
+lay-k_all_documents_848,test\enron9\lay-k_all_documents_848,test,knowak@wpo.org,2,2,Kristi Nowak | Kristina M. Nowak
+lewis-a_all_documents_63,test\enron9\lewis-a_all_documents_63,test,fool@motleyfool.com,3,2,David Gardner | Erik Rydholm
+lewis-a_all_documents_91,test\enron9\lewis-a_all_documents_91,test,tigerstock-admin@tigerinvestor.com,2,2,Don | Tae Kim
+linder-e_all_documents_840,test\enron9\linder-e_all_documents_840,test,debra.davidson@enron.com,5,2,Debra | Debra Davidson
+martin-t_all_documents_15,test\enron9\martin-t_all_documents_15,test,laura.vuittonet@enron.com,10,10,Brian Redmond | Carol Carter | Ed Gottlob | Jackie Nelson | Jim Coffey | Jim Schwieger Email | Lillian Carroll | Mick Walters | Nick Cocavessis | Steve Schneider
+may-l_all_documents_442,test\enron9\may-l_all_documents_442,test,alex@pira.com,3,3,Contact John Graziano | Morris Greenberg | Victoria Watkins
+mcconnell-m_all_documents_915,test\enron9\mcconnell-m_all_documents_915,test,mike.mcconnell@enron.com,18,18,Cris Sherman | Daniel Reck | David W Delainey | Frevert | George | George McClellan | Jeff Donahue | Jeffrey A Shankman | Jordan Mintz | Joseph Deffner | Kevin McGowan | Liss | Matthew Arnold | Mike | Mike McConnell | Stuart Staley | Tim Proffitt | Wes Colwell
+mckay-b_all_documents_7,test\enron9\mckay-b_all_documents_7,test,caroline.abramo@enron.com,0,0,
+mclaughlin-e_all_documents_790,test\enron9\mclaughlin-e_all_documents_790,test,errol.mclaughlin@enron.com,8,6,Dawn | Errol | Errol McLaughlin | Jeffrey C Gossett | Tara Sweitzer | Torrey Moorer
+merriss-s_all_documents_60,test\enron9\merriss-s_all_documents_60,test,bill.iii@enron.com,1,1,Bill
+pereira-s_all_documents_128,test\enron9\pereira-s_all_documents_128,test,susan.pereira@enron.com,2,2,Stacy | Susan
+pereira-s_all_documents_54,test\enron9\pereira-s_all_documents_54,test,susan.pereira@enron.com,3,3,Jan | Kali | Susan
+presto-k_all_documents_20,test\enron9\presto-k_all_documents_20,test,kevin.presto@enron.com,18,8,Ben | Calger | Chris | Chris Calger | Jeff | Jeff Ader | Scott | Scott Healy
+presto-k_all_documents_9,test\enron9\presto-k_all_documents_9,test,tamara.black@enron.com,1,1,Tjae
+ruscitti-k_all_documents_180,test\enron9\ruscitti-k_all_documents_180,test,cora.pendergrass@enron.com,1,1,Cora
+saibi-e_all_documents_5,test\enron9\saibi-e_all_documents_5,test,rose.m.nolen@dynegy.com,2,2,Eric | Rose
+shackleton-s_all_documents_1638,test\enron9\shackleton-s_all_documents_1638,test,sara.shackleton@enron.com,9,7,John | Jon Chapman | Marie | Sara | Sara Shackleton | Trena | Trena McFarland
+shackleton-s_all_documents_3607,test\enron9\shackleton-s_all_documents_3607,test,mary.cook@enron.com,2,2,Mary Cook | Sara
+shapiro-r_all_documents_483,test\enron9\shapiro-r_all_documents_483,test,michael.brown@enron.com,30,28,Adam Overfield | Anne Edgley | Bryan Seyfried | Drew C Lynch | Eric Shaw | Fernley Dyson | Fiona Grant | Gregor Baumerich | Jackie Gentle | Joe Gold | John Robinson | John Sherriff | John Thompson | Mark Evans | Mark Pickering | Matthew Scrimshaw | Michael Farmer | Michael J Hutchinson | Michael R Brown | Paul Chivers | Paul Freeman | Paul Mead | Richard Lewis | Tani Nath | Ted Murphy | Tom McKeever | Tracy | Tracy Ralston
+shively-h_all_documents_260,test\enron9\shively-h_all_documents_260,test,hunter.shively@enron.com,0,0,
+skilling-j_all_documents_642,test\enron9\skilling-j_all_documents_642,test,peter.berger@enron.com,0,0,
+smith-m_all_documents_156,test\enron9\smith-m_all_documents_156,test,matt.smith@enron.com,1,1,Jeffrey
+stclair-c_all_documents_944,test\enron9\stclair-c_all_documents_944,test,carol.clair@enron.com,3,2,Carol St. Clair | Luke
+stepenovitch-j_all_documents_51,test\enron9\stepenovitch-j_all_documents_51,test,guest.services@disneyonline.com,2,1,Alyssa Peek
+sturm-f_all_documents_40,test\enron9\sturm-f_all_documents_40,test,fletcher.sturm@enron.com,3,3,Fox | McDonald | Wallingford
+taylor-m_all_documents_2152,test\enron9\taylor-m_all_documents_2152,test,shari.stack@enron.com,9,6,Jaime Williams | Peggy Banczak | Rogelio | Sean McCoy | Shari Stack | Velarde
+taylor-m_all_documents_3669,test\enron9\taylor-m_all_documents_3669,test,robert.bruce@enron.com,3,3,Bob | Gary | Gary Hickerson
+taylor-m_all_documents_5915,test\enron9\taylor-m_all_documents_5915,test,david.portz@enron.com,0,0,
+tholt-j_all_documents_15,test\enron9\tholt-j_all_documents_15,test,laurie.ellis@enron.com,5,5,Jane | Laurie | Laurie Ellis | Nancy | Nancy Frazier
+tholt-j_all_documents_3,test\enron9\tholt-j_all_documents_3,test,ina.rangel@enron.com,1,1,Fangming
+tholt-j_all_documents_386,test\enron9\tholt-j_all_documents_386,test,david.forster@enron.com,1,1,Dave
+tycholiz-b_all_documents_24,test\enron9\tycholiz-b_all_documents_24,test,barry.tycholiz@enron.com,2,2,Kay | Lisa
+ward-k_all_documents_217,test\enron9\ward-k_all_documents_217,test,baveety@pplweb.com,6,5,"Barb | Griffith | Kim | Kim Ward | Veety, Barbra A."
+white-s_all_documents_115,test\enron9\white-s_all_documents_115,test,zionette.vincent@enron.com,2,2,Cindy | Louise Beer
+williams-j_all_documents_6,test\enron9\williams-j_all_documents_6,test,brant.reves@enron.com,5,4,Brant Reves | Chris Riegler | Eddie Sera | George Hope
+williams-j_all_documents_85,test\enron9\williams-j_all_documents_85,test,jason.williams@enron.com,6,5,Brant Reves | Jason R Williams | Tana | Tana Jones | Tanya
+wolfe-j_all_documents_193,test\enron9\wolfe-j_all_documents_193,test,oshaugws@bp.com,3,3,"Jason | O'Shaughnessy, W. Shannan | W. Shannan O'Shaughnessy"
+wolfe-j_all_documents_42,test\enron9\wolfe-j_all_documents_42,test,beth.cherry@enform.com,2,2,OJ Simpson | Sum Ting Wong
+zipper-a_all_documents_12,test\enron9\zipper-a_all_documents_12,test,travis.mccullough@enron.com,5,5,Andy | Anthony | Chris | Richard | Travis McCullough
+arnold-j_all_documents_1027,train\enron0\arnold-j_all_documents_1027,train,john.arnold@enron.com,1,1,John Arnold
+arora-h_all_documents_58,train\enron0\arora-h_all_documents_58,train,paula.hix@enron.com,3,2,Miguel | Paula
+badeer-r_all_documents_280,train\enron0\badeer-r_all_documents_280,train,robert.badeer@enron.com,0,0,
+badeer-r_all_documents_295,train\enron0\badeer-r_all_documents_295,train,office.chairman@enron.com,0,0,
+baughman-e_all_documents_13,train\enron0\baughman-e_all_documents_13,train,kayne.coulter@enron.com,3,2,Kayne Coulter | Thresa A Allen
+baughman-e_all_documents_276,train\enron0\baughman-e_all_documents_276,train,jebert@eadslink.com,26,25,Anita McGray | Carl McQueary | Cassie Holman | Christy Barrington | Dustin Howell | Gary Peters | George Dawson | Gloria Scott | Joe Ebert | John Aaron | Kurt Jones | Marc Kuck | Mark Carreon | Mike Smalley | Mindy Martin | Nick Alexander | Randal Kirby | Rebecca L. Foshee | Robert Schoenberg | Scott Crow | Stacy Abel | Tammy Stewart | Trish Poncik | Waverly Johnson | Willie Childers
+baughman-e_all_documents_365,train\enron0\baughman-e_all_documents_365,train,joe.errigo@enron.com,2,2,Cory | JOE
+baughman-e_all_documents_380,train\enron0\baughman-e_all_documents_380,train,bryan.hull@enron.com,1,1,Bryan Hull
+benson-r_all_documents_51,train\enron0\benson-r_all_documents_51,train,jeffrey.keeler@enron.com,2,2,Jeff | Jeffrey Keeler
+buy-r_all_documents_142,train\enron0\buy-r_all_documents_142,train,rick.buy@enron.com,1,1,Rick
+campbell-l_all_documents_657,train\enron0\campbell-l_all_documents_657,train,afilas@keyspanenergy.com,3,2,Anne | Larry
+cash-m_all_documents_752,train\enron0\cash-m_all_documents_752,train,michelle.cash@enron.com,17,8,Jeff Hoogendam | Jeffrey | JP | Maria Morris Stewart | Michelle | Michelle Cash | Trey | Trey Cash
+davis-d_all_documents_301,train\enron0\davis-d_all_documents_301,train,thomas.myers@enron.com,4,4,Georgeanne Hodges | Tom | Tom Myers | Wes Colwell
+delainey-d_all_documents_541,train\enron0\delainey-d_all_documents_541,train,kay.chapman@enron.com,1,1,Kay
+delainey-d_all_documents_589,train\enron0\delainey-d_all_documents_589,train,david.delainey@enron.com,14,10,Ben | Ben F Jacoby | Ben Jacoby | Bruce Golden | Coleman | Dave | David W Delainey | Mike | Thomas Suffield | Westfahl
+derrick-j_all_documents_149,train\enron0\derrick-j_all_documents_149,train,mark.haedicke@enron.com,7,5,Elizabeth | Elizabeth Sager | Jim | Mark | Mark E Haedicke
+derrick-j_all_documents_42,train\enron0\derrick-j_all_documents_42,train,james.derrick@enron.com,35,25,Aleck Dadson | Ann M Schmidt | Cheryl Devoe Kim | Cheryl Kim | Cindy Derecskey | Craig | David Bloom | David W Delainey | Eric Thode | James Derrick | Jeff Skilling | John J Lavorato | Ken Peterson | Kenneth Lay | Mark Koenig | Mark Palmer | Owen Craig | Palmer | Peterson | Richard B Sanders | Robert Hemstock | Shapiro | Steven J Kean | Thode | Whalley
+dorland-c_all_documents_122,train\enron0\dorland-c_all_documents_122,train,chris.dorland@enron.com,2,2,Chris | Chris Dorland
+dorland-c_all_documents_34,train\enron0\dorland-c_all_documents_34,train,chris.dorland@enron.com,3,3,Chris | Kim | Louis
+ermis-f_all_documents_83,train\enron0\ermis-f_all_documents_83,train,enron.announcements@enron.com,1,1,Ernie
+farmer-d_all_documents_4852,train\enron0\farmer-d_all_documents_4852,train,mjones7@txu.com,0,0,
+fischer-m_all_documents_129,train\enron0\fischer-m_all_documents_129,train,ilan.caplan@enron.com,2,2,Ilan | Mark
+fischer-m_all_documents_14,train\enron0\fischer-m_all_documents_14,train,mark.walker@enron.com,11,8,Joe Chapman | Kim Nguyen | Klaus | Mark V Walker | Patricia Hunter | Ron | Ronald Brzezinski | Weitergeleitet von Klaus Holtel
+fischer-m_all_documents_395,train\enron0\fischer-m_all_documents_395,train,jeff.duff@enron.com,12,6,Bo Thisted | George Griese | Jeff Duff | Mark Fisher | Matt | Matt Allsup
+fossum-d_all_documents_1503,train\enron0\fossum-d_all_documents_1503,train,drew.fossum@enron.com,25,25,Bambi Heckerman | Butler | Dari Dornan | Dorothy | Drew | Drew Fossum | Fossum | Frazier | Glen | Hass | Janet | Janet Place | King | Maria | Mary Kay Miller | McCoppin | Michele | Nancy Bagot | Pavlou | Ray Neppl | Robert Kilmer | Shelley Corman | Teb Lokey | Tennessee Tech | Winckowski
+gilbertsmith-d_all_documents_81,train\enron0\gilbertsmith-d_all_documents_81,train,brenda_b_harris@reliantenergy.com,0,0,
+griffith-j_all_documents_113,train\enron0\griffith-j_all_documents_113,train,george.weissman@enron.com,16,8,Eric Moon | George | George Weissman | Jill T Zivley | John Griffith | Melissa Graves | Robert Crockett | Sandy
+griffith-j_all_documents_369,train\enron0\griffith-j_all_documents_369,train,eric.moon@enron.com,20,16,Ben_Richter | Chris Dahl | David Oliver | Eric Moon | Guy Freshwater | Jason Harding | Jennifer Oliver | jerry oliver | Maarit Makinen | Mark Friedman | Pasi Hamalainen | Richard Cross | Sarah | Sarah Knott | Waldhauser | William Kelly
+griffith-j_all_documents_388,train\enron0\griffith-j_all_documents_388,train,patsy@marc-newson.com,5,3,John | John Griffith | Patsy Youngstein
+grigsby-m_all_documents_293,train\enron0\grigsby-m_all_documents_293,train,mike.grigsby@enron.com,2,2,Dave | Mike
+grigsby-m_all_documents_325,train\enron0\grigsby-m_all_documents_325,train,mike.grigsby@enron.com,2,2,Grigsby | Ina
+grigsby-m_all_documents_423,train\enron0\grigsby-m_all_documents_423,train,mike.grigsby@enron.com,2,2,Mike | Mike Grigsby
+hayslett-r_all_documents_143,train\enron0\hayslett-r_all_documents_143,train,john.ale@enron.com,2,2,Michael | Rod
+hayslett-r_all_documents_214,train\enron0\hayslett-r_all_documents_214,train,molly.sample@enron.com,4,1,Molly Sample
+hernandez-j_all_documents_542,train\enron0\hernandez-j_all_documents_542,train,judy.hernandez@enron.com,15,14,Amber | Amber Limas | Angela Barnett | BENEDICT PETERS | Derick Jones | Diane Salcido | Eve Puckett | Jordan | Judy Hernandez | Loneta Edison | Regina Blackshear | Shirlet Williams | Tammy Green | Yolanda Clay
+hodge-j_all_documents_302,train\enron0\hodge-j_all_documents_302,train,jeffrey.hodge@enron.com,91,88,Allan | Anne | Ben Glisan | Bill | Bill Gulyassy | Charlene Jackson | Chris Holmes | D'Souza | Dan Leff | Dana R Gibbs | Dave Gunther | David | David Duran | David Howe | Debbie | Diane Hetzel | Donley | Drew Fossum | Dwight Larson | Edgley | Eichner | Elizabeth Labanowski | Fernley Dyson | Gene Humphrey | Gerry | Gerry Gibson | Gorte | Greg Hermans | Gross | Harold | Harris | Hartsoe | Henderson | Holland | Howard | Inman | Jacek Drezewski | Jackie | James E Keller | James Ginty | James I Ducote | Jeff | Jeff Donahue | Jeff Forbis | Jeffrey T Hodge | Joe Gold | John Dushinske | John Gillis | John J Lavorato | Jones | Joseph E Earle | Joseph P | Joyce | Keel | Kelly Kimberly | Kevin Howard | Kevin Hughes | Kevin Kohnstamm | Kitagawa | Koenig | Kyle | Louise Kitchen | Mark | Marty Keyser | Mary | Matt | Maurizio La | Meredith M Eggleston | Michael J Hutchinson | Michael Kopper | Nowak | Paul D Gavens | Paul Kaufman | Peggy Hedstrom | Ranabir Dutt | Richard Harper | Richard Lewis | Robert | Robert Greer | Robert Hill | Robert Hurt | Robert L Hall | Scott Gahn | Scott Josey | Stinson Gibner | Terence | Thomas D Gros | Timothy
+hodge-j_all_documents_37,train\enron0\hodge-j_all_documents_37,train,steven.krimsky@enron.com,4,4,Samantha | Samantha Slater | Steve | Steven Krimsky
+hyvl-d_all_documents_1531,train\enron0\hyvl-d_all_documents_1531,train,dan.hyvl@enron.com,1,1,Ann Elizabeth
+jones-t_all_documents_10090,train\enron0\jones-t_all_documents_10090,train,kelly.lombardi@enron.com,40,28,Anthony | Anthony Campos | Bjorn Hagelmann | Chris Walker | Dawn C Kenne | Georgi Landau | Jeff Blumenthal | Karen Lambert | Kelly | Kelly Lombardi | Kelly Lombardi @ | Kevin Meredith | Landau | Larry Joe Hunter | Lisa | Lisa Lees | Mark Taylor | Melba Lozano | Robert B Cass | Sarah Mulholland | Stephanie Sever | Susan Musch | Taffy Milligan | Tana Jones | Tara Sweitzer | Tom Moran | Torrey Moorer | Veronica Hill
+jones-t_all_documents_12017,train\enron0\jones-t_all_documents_12017,train,tana.jones@enron.com,9,6,Cheryl Nelson | Jay Epstein | Mark Taylor | Mary Cook | Tana Jones | Tiffany Williams
+jones-t_all_documents_12328,train\enron0\jones-t_all_documents_12328,train,tanya.rohauer@enron.com,83,83,"Adams, Laurel | Aguayo, Janie | Anderson, Diane | Bailey, Derek | Bailey, Susan | Bell, Jean | Bowen, Bob | Brackett, Debbie R. | Bradford, William S. | Brewer, Julie | Brown, Angela Y | Campbell, Lesli | Campos, Anthony | Cason, Sharen | Cisneros, Celeste | Colbert, Marilyn | Conwell, Wendy | Cook, Mary | Crawford, Sharon | Curry, Ken | Davis, Angela | Davis, Frank L. | Diamond, Russell | Ebow, Amber | Ellstrom, Diane | Espinoza, Veronica | Fischer, Jason | Garcia, Jorge | Gerard, Camille | Gonzalez, Veronica | Guillen, Andrea | Hare, Bill D. | Heaney, Gordon | Heard, Marie | Hendry, Brent | Hundl, Kimberly | Hunter, Larry Joe | Johnson, Cheryl | Johnson, Rudwell | Jones, Tana | Keiser, Holly | Lambert, Karen | Landau, Georgi | Landry, Shemeika S. | Lebrocq, Wendi | Lees, Lisa | Leite, Francisco Pinto | Mendoza, Nidia | Moore, Jason | Moran, Tom | Murphy, Melissa Ann | Nelson, Cheryl | Neuner, Dale | Ngo, Tracy | Ornelas, Bianca | Otto, Randy | Piwetz, Stephanie | Radous, Paul | Rajaram, Aparna | Reeves, Leslie | Reves, Brant | Richardson, Stacey | Rodriguez, Bernice | Rodriguez, Melissa | Rohauer, Tanya | Sacks, Edward | Sayre, Frank | Schott, Samuel | Seib, Dianne | Sever, Stephanie | Shackleton, Sara | Shivers, Lynn | Sietzema, Linda | Southard, Carrie | Stephanie | Stephanie Panus | Tackett, Scott | Taylor, Mark | Theriot, Kim | Vanek, Darren | Whalen, Melinda | Williams, Jason R | Williams, Tiffany"
+jones-t_all_documents_4810,train\enron0\jones-t_all_documents_4810,train,tana.jones@enron.com,2,2,Mark Taylor | Michael Slade
+kaminski-v_all_documents_2336,train\enron0\kaminski-v_all_documents_2336,train,vince.kaminski@enron.com,8,6,Shirley | Shirley Crenshaw | Stephanie E Taylor | Stephanie E. Taylor | Vince | Vince J Kaminski
+kean-s_all_documents_7826,train\enron0\kean-s_all_documents_7826,train,preilly@velaw.com,1,1,Patricia F. Reilly
+king-j_all_documents_9,train\enron0\king-j_all_documents_9,train,stephanie.sever@enron.com,2,2,Jeff | Stephanie
+kuykendall-t_all_documents_23,train\enron0\kuykendall-t_all_documents_23,train,rbsandweg@houston.rr.com,2,2,Renata | Steve
+lavorato-j_all_documents_668,train\enron0\lavorato-j_all_documents_668,train,john.lavorato@enron.com,2,2,Kim | Mike Roberts
+linder-e_all_documents_811,train\enron0\linder-e_all_documents_811,train,pete.davis@enron.com,0,0,
+martin-t_all_documents_107,train\enron0\martin-t_all_documents_107,train,thomas.martin@enron.com,3,2,Patrick Wade | Thomas A Martin
+martin-t_all_documents_73,train\enron0\martin-t_all_documents_73,train,lisa.lunz@enron.com,1,1,Lisa Lunz
+mcconnell-m_all_documents_770,train\enron0\mcconnell-m_all_documents_770,train,virginia@clarkfineart.com,4,4,Lichtenstein | Message | Mike | Virginia Repasky
+mckay-b_all_documents_43,train\enron0\mckay-b_all_documents_43,train,brad.mckay@enron.com,1,1,Greg
+mckay-b_all_documents_47,train\enron0\mckay-b_all_documents_47,train,perfmgmt@enron.com,1,1,"LILLY, KYLE"
+mclaughlin-e_all_documents_242,train\enron0\mclaughlin-e_all_documents_242,train,ken.skilling@enron.com,100,94,Andreas Radmacher Rob Bayley | Andy Fastow | Andy Zipper | Angela Schwarz Scott Gahn | Ben Glisan | Ben Jacoby | Beth Tilney | Billy | Billy Lemmons | Bjarne Schieldrop David Gallagher | Brad Richter | Brenda Herod | Charlene | Charlene Jackson | Cheryl Lipshutz | Chris Mahoney | Christopher McKey | Cindy Olson | Dan Leff | Dan McCarty | Danny McCarty Michael Brown | Dave Delainey | David Gorte | Derrick Davies | Don Black | Ed McMichael | Ed Smida | Emilio Vicens | Eric Shaw Robina Barker-Bennett | Everett Plante | Federico Cerisoli | Frank Vickers | Greg Adams | Hunter Shively Joe Deffner | Hunter Shively Rick Causey | Jean Mrha | Jeff McMahon Rick | Jeff Shankman Janet Dietrich | Jeff Shankman Jeff Donahue | Jennifer Fraser | Jeremy Blachman | Jim Hughes | Jim Steffes | John Lavorato | John Nowlan | John Sherriff | Jon Thomsen | Kelly Kimberly | Ken Lay | Ken Rice | Kevin | Kevin Garland | Kevin Heffron | Kevin Howard | Lewis | Louise Kitchen | Marcello Romano Markus Fiala | Mark Haedicke | Mark Jackson | Mark Palmer Shelley Corman | Marty Sunde Jim Fallon | Matthew Scrimshaw David Cox | Michael Kopper | Michael Mann | Mike Terraso Robert Jones | Milnthorp Wes Colwell | Mitch Taylor Gene Humphrey | Ozzie Pagan | Paul Quilkey | Paul Racicot | Paula Rieker Janet Dietrich | Phillip Allen | Pierre Aury | Richard Lewis | Richard Shapiro Dave Duran | Rod Hayslett | Rodney Malcolm | Rogers Herndon | Ron Slimp Bruce Garner | Roy Poyntz | Sally Beck | Scott Neal | Sean Holmes | Sean Long | Stan Horton | Steve Jernigan | Steve Kean | Steve Meyers | Stewart | Stewart Seeligson Dan Castagnola | Stu Staley Joe Deffner | Stuart Rexrode Paul Chivers | Tim Belden | Troy Henry
+neal-s_all_documents_496,train\enron0\neal-s_all_documents_496,train,scott.neal@enron.com,0,0,
+neal-s_all_documents_67,train\enron0\neal-s_all_documents_67,train,hunter.shively@enron.com,17,17,"Andrew H. | Cuilla | Donohoe | Geoff | Jason | Kelli | Kevin | Lewis | Martin | Mims | Patrice L. | Ruscitti | Shively, Hunter S. | Stevens | Storey | Tom | Williams"
+nemec-g_all_documents_2116,train\enron0\nemec-g_all_documents_2116,train,eric.gillaspie@enron.com,13,5,Eric Gillaspie | Gerald | Gerald Nemec | Michael | Michael Eiben
+panus-s_all_documents_2,train\enron0\panus-s_all_documents_2,train,ken.rubeli@enron.com,9,5,Brent Hendry | Ken | Ken Rubeli | Stephanie | Stephanie Panus
+pereira-s_all_documents_14,train\enron0\pereira-s_all_documents_14,train,susan.pereira@enron.com,0,0,
+ring-a_all_documents_4,train\enron0\ring-a_all_documents_4,train,andrea.ring@enron.com,25,21,Andrea Ring | Becky | Craig Taylor | Daniel | Hardy | Hernandez | Ina | Janet H Wallis | Janet H. Subject | Jason | Jessica | Jesus A | Kimberly | Laura | Panos | Presas | Quezada | Rangel | Robert | Wallis | Young
+rodrique-r_all_documents_318,train\enron0\rodrique-r_all_documents_318,train,robin.rodrigue@enron.com,1,1,Gabriel Monroy
+rodrique-r_all_documents_518,train\enron0\rodrique-r_all_documents_518,train,robin.rodrigue@enron.com,11,9,Annese | Barbara A Tyler | Becky Barge | dianne | Joanne Smith | Martha Stewart | Mom | Robin Rodrigue | Stewart
+rodrique-r_all_documents_571,train\enron0\rodrique-r_all_documents_571,train,robin.rodrigue@enron.com,1,1,Robin
+ruscitti-k_all_documents_352,train\enron0\ruscitti-k_all_documents_352,train,tom.donohoe@enron.com,1,1,Tom Donohoe
+saibi-e_all_documents_11,train\enron0\saibi-e_all_documents_11,train,thane.twiggs@enron.com,30,16,Christi | Christi L | Clint Dean | Congestion Zone | Doug Gilbert-Smith | Eric Saibi | Jean Ryall | Martin Lin | McNamara | Michelle Parks | Mike Curry | Nicolay | Ron | Smith | Thane Thomas Twiggs | Thane Twiggs
+schwieger-j_all_documents_67,train\enron0\schwieger-j_all_documents_67,train,jim.schwieger@enron.com,19,10,Brad Blevins | Deer Park | Jim | Jim Schwieger | Kevin Kuehler | Kevin Pilkington | MidCon Deer Park | Nick Cocavessis | Tom | Towles
+schwieger-j_all_documents_81,train\enron0\schwieger-j_all_documents_81,train,edward.gottlob@enron.com,5,5,Brad Clausen | Chuck Nuetzler | Sandy Tomme | Taylor | Tom Mathiasmeier
+shankman-j_all_documents_457,train\enron0\shankman-j_all_documents_457,train,jeffrey.shankman@enron.com,15,15,Adam Gross | Bill White | Fletch Sturm | Gary Hickerson | Hunter Shively | Jen Fraser | John Arnold | John Nowlan | Kevin Mcgowan | Kevin Presto | Michael Bradley | Mike Grigsby | Phillip Allen | Rogers Hearndon | Vince Kaminski
+shively-h_all_documents_81,train\enron0\shively-h_all_documents_81,train,hunter.shively@enron.com,28,25,Airam Arteaga | Amanda Huble | Barry Tycholiz | Becky Young | Chris Gaskill | Ed McMichael | Edie Leschber | Frank W Vickers | Fred Lagrasta | Geraldine Irvine | Heidi DuBose | Hunter S Shively | Ina Rangel | Jason | Joann Holloway | John Arnold | Julie A Gomez | Kimberly Brown | Laura Luce | Lisa | Lynn Pikofsky | Phillip K Allen | Scott Neal | Susan Helton | Venita Coleman
+skilling-j_all_documents_357,train\enron0\skilling-j_all_documents_357,train,katherine.brown@enron.com,14,14,Dirk Voorhees | George Bogle | Gwen Daye Richardson | James Taylor | Jeff Skilling | Jerry Cobb | Juan F. Samudio | Katherine Brown | Kathy | Kathy Nethercutt | Kathy Nethercutt @ | Rod Endo | Stephen Curry | Steve McLoughlin
+smith-m_all_documents_168,train\enron0\smith-m_all_documents_168,train,matt.smith@enron.com,5,3,Mat | Matt Smith | Tom
+smith-m_all_documents_90,train\enron0\smith-m_all_documents_90,train,matt.smith@enron.com,0,0,
+south-s_all_documents_41,train\enron0\south-s_all_documents_41,train,general.announcement@enron.com,0,0,
+stclair-c_all_documents_103,train\enron0\stclair-c_all_documents_103,train,carol.clair@enron.com,2,2,carol | Rob
+storey-g_all_documents_26,train\enron0\storey-g_all_documents_26,train,colleen.sullivan@enron.com,3,3,Jeff Gossett | Russ Severson | Sitara
+storey-g_all_documents_42,train\enron0\storey-g_all_documents_42,train,louise.kitchen@enron.com,29,21,Beth | Beth Perlman | Bibi | Colleen | Colleen Sullivan | Geoff | Geoff Storey | Louise | Louise Kitchen | Perlman | Philippe A Bibi | Philippe A. | Schoppe | Stephen | Stephen Stock | Storey | Sullivan | Tammie | Wei | Zhiyong | Zhiyong Wei
+storey-g_all_documents_53,train\enron0\storey-g_all_documents_53,train,<true_name> louis </true_name> .dicarlo@enron.com,1,1,louis
+sturm-f_all_documents_161,train\enron0\sturm-f_all_documents_161,train,fletcher.sturm@enron.com,30,29,Bilal Bajwa | Chuck Ames | Denver Plachy | Elizabeth Shim | Fletcher J Sturm | Hunter S Shively | Jason Wolfe | John Arnold | John J Lavorato | Joseph Wagner | Juan Padron | Karen Buckley | Kevin M Presto | Kimberly Hillis | Louise Kitchen | Mark Dana Davis | Matt Smith | Mog Heu | Paul Schiavone | Phillip K Allen | Rogers Herndon | Russell Ballato | Scott Neal | Steve Gim | Ted | Ted C Bland | Thomas A Martin | Virawan Yawapongsiri | Vladi Pimenov
+sturm-f_all_documents_262,train\enron0\sturm-f_all_documents_262,train,hgpbus@home.com,1,1,Dan
+taylor-m_all_documents_7541,train\enron0\taylor-m_all_documents_7541,train,tana.jones@enron.com,0,0,
+tholt-j_all_documents_221,train\enron0\tholt-j_all_documents_221,train,laurie.ellis@enron.com,2,1,Laurie Ellis
+tycholiz-b_all_documents_15,train\enron0\tycholiz-b_all_documents_15,train,barry.tycholiz@enron.com,0,0,
+whalley-g_all_documents_14,train\enron0\whalley-g_all_documents_14,train,liz.taylor@enron.com,9,9,David Goldschlag | Echols | Fallon | Hannon | Kevin Hannon | Marla Bernard | Sandy Stone | Scott Yeager | Skilling
+whalley-g_all_documents_140,train\enron0\whalley-g_all_documents_140,train,justin.rostant@enron.com,0,0,
+whalley-g_all_documents_544,train\enron0\whalley-g_all_documents_544,train,katherine.brown@enron.com,4,4,Binky Davidson | Elaine Rodriquez | Mark Muller | Wade Cline
+whalley-g_all_documents_691,train\enron0\whalley-g_all_documents_691,train,maxine.levingston@enron.com,2,2,Billy | Jackie Coleman
+wheldon-c_all_documents_163,train\enron0\wheldon-c_all_documents_163,train,v.weldon@enron.com,23,18,Avi Nash | Ben D Herzog | Charlene D Thomas | Dave K Findlay | Dennis W Broughton | Dilip Kumar | Ferdinand Bauerdick | Hunter H Ficke | Ignac R Matocha | Jeffrey Crudgington | Kenneth W Wall | Mike Estep | Patricia S Murdock | Paul W Juneau | Rick Otero | Sandra Vizzacchero | V Charles Weldon | V.Charles
+white-s_all_documents_131,train\enron0\white-s_all_documents_131,train,lacrecia.davenport@enron.com,2,2,LaCrecia | Stacey
+white-s_all_documents_39,train\enron0\white-s_all_documents_39,train,zionette.vincent@enron.com,0,0,
+allen-p_all_documents_496,train\enron1\allen-p_all_documents_496,train,phillip.allen@enron.com,2,2,George | Phillip
+allen-p_all_documents_575,train\enron1\allen-p_all_documents_575,train,phillip.allen@enron.com,1,1,Lucy
+arora-h_all_documents_44,train\enron1\arora-h_all_documents_44,train,ajay.jagsi@owen2002.vanderbilt.edu,2,2,Ajay S. Jagsi | Mr. Arora
+badeer-r_all_documents_109,train\enron1\badeer-r_all_documents_109,train,cfi1@tca-us.com,2,2,Bob | Carl
+badeer-r_all_documents_128,train\enron1\badeer-r_all_documents_128,train,carla.hoffman@enron.com,9,7,"Bryan Lee | Carla Hoffman | G_nther A. Pergher | Golden, Mark | Gunther Pergher | Leopold, Jason | Pergher, Gunther"
+bailey-s_all_documents_14,train\enron1\bailey-s_all_documents_14,train,cindy.buckley@enron.com,1,1,Tracey Belbin
+bass-e_all_documents_1888,train\enron1\bass-e_all_documents_1888,train,eric.bass@enron.com,4,3,Eric Bass | Lesli | Lesli Campbell
+beck-s_all_documents_2756,train\enron1\beck-s_all_documents_2756,train,sally.beck@enron.com,13,12,Bennett Kaufman | Gary | Gary Hickerson | Gretel Smith | Kelly Templeton | Laurel Adams | Sally | Sally Beck | Sheila | Sheila Glover | Stella L Ely | Theresa T Brogan
+beck-s_all_documents_3519,train\enron1\beck-s_all_documents_3519,train,sally.beck@enron.com,3,3,Patti | Sally Beck | Tom
+beck-s_all_documents_401,train\enron1\beck-s_all_documents_401,train,eugenio.perez@enron.com,1,1,Eugenio
+benson-r_all_documents_44,train\enron1\benson-r_all_documents_44,train,bobette.riner@ipgdirect.com,2,2,Bobette | Bobette Riner
+benson-r_all_documents_8,train\enron1\benson-r_all_documents_8,train,robert.benson@enron.com,2,2,George | Rob
+brawner-s_all_documents_169,train\enron1\brawner-s_all_documents_169,train,sandra.brawner@enron.com,28,28,Abbey Lynch | Boykin | Brenda | Cal | Debbie Kerinke | Diane JENSEN | Don Ott | Ed | Frank Stasko | Jan | Kelly | Kenney Turnbaugh | Leslie Freedman | Lisa | Lynch | Marty Scott | Pam | Pam Anderson | Pamela Anderson | Sandee DeVore | Sandra | Sandra Brawner | Sandra F Brawner | Steve Tietjen | Steve Wilbur | Sue | Sue Caldwell | Terry Lackey
+buy-r_all_documents_103,train\enron1\buy-r_all_documents_103,train,rick.buy@enron.com,1,1,rick
+campbell-l_all_documents_1203,train\enron1\campbell-l_all_documents_1203,train,music-store-news@amazon.com,5,5,Andy Bartlett | Bob Marley | Elton John | Jimi Hendrix | Miles Davis
+cash-m_all_documents_455,train\enron1\cash-m_all_documents_455,train,michelle.cash@enron.com,11,10,Andrew Kelemen | David Parquet | Dean Russell | Don Miller | Karen E Jones | Michelle Cash | Ron Coker | Samuel Wehn | Sheila Tweed | Stuart Zisman
+davis-d_all_documents_263,train\enron1\davis-d_all_documents_263,train,dana.davis@enron.com,1,1,Dana
+davis-d_all_documents_8,train\enron1\davis-d_all_documents_8,train,rufino.doroteo@enron.com,2,2,Dana | Rufino
+dean-c_all_documents_142,train\enron1\dean-c_all_documents_142,train,dgagliardi@reliantenergy.com,40,39,Adam Doiron | Antwan Kirk-Hughes | Artie Ellis | Baylor | Bo Scaife | Brock Edwards | Brown | Chad Stephens | Coach Mack Brown | Cullen Loeffler | David M Gagliardi | Deginald Erskin | Drew Gressett | Edwards | Ellis | Erskin | Fullback James Buchanon | Gonzales | Gressett | Harris | Ivan Williams | Jerry Scarbrough | Kansas | Killeen Ellison | Leonard Davis | Longhorn Kris Clack | Major Applewhite | Marcus Tubbs | Michael Gagliardi | Mike Jones | Mike Williams | Rick Barnes | Robbie Doane | Shaun Rogers | Sloan Thomas | Super | Tillman Holloway | Tommie Harris | Tony
+dean-c_all_documents_255,train\enron1\dean-c_all_documents_255,train,alan.chen@enron.com,3,3,Alan Chen | Mark | Smith Day
+dean-c_all_documents_71,train\enron1\dean-c_all_documents_71,train,mdenney@nortelnetworks.com,16,9,Brackhahn | Bryan | Clint | Denney | Jenn | Jenn Price | Monica | Tom Kimpel | Tori
+derrick-j_all_documents_145,train\enron1\derrick-j_all_documents_145,train,mcominsky@aol.com,5,5,Carrin | Jeff | Jim | Martin | Martin B. Cominsky
+dickson-s_all_documents_14,train\enron1\dickson-s_all_documents_14,train,stacy.dickson@enron.com,3,3,Bobbie | Dan | Stacy
+dickson-s_all_documents_163,train\enron1\dickson-s_all_documents_163,train,stacy.dickson@enron.com,12,9,Debra | Debra Perlingiere | Jeffrey T Hodge | Johnson | Roy Rodriguez | Rudwell | Rudwell Johnson | Stacy E Dickson | Vangie McGillloway
+donohoe-t_all_documents_145,train\enron1\donohoe-t_all_documents_145,train,perfmgmt@enron.com,2,2,"ROBERT A SUPERTY | WILLIAMS, JASON C"
+ermis-f_all_documents_136,train\enron1\ermis-f_all_documents_136,train,david.forster@enron.com,1,1,Dave
+gay-r_all_documents_383,train\enron1\gay-r_all_documents_383,train,randall.gay@enron.com,1,1,Julie
+gay-r_all_documents_406,train\enron1\gay-r_all_documents_406,train,randall.gay@enron.com,13,11,Aimee Mann | Billy | Bjork | Carla | Haywood | James | John Malkovitch Elliott Smith | Juno | Kris Woolsey | Nels | Randall L Gay
+gay-r_all_documents_46,train\enron1\gay-r_all_documents_46,train,rob.gay@enron.com,7,7,Christiaan Huizer | Felipe | Felipe Ospina | Laine A Powell | Richard A Lammers | Tracee | Tracee Bersani
+germany-c_all_documents_934,train\enron1\germany-c_all_documents_934,train,chris.germany@enron.com,20,11,Chris | Chris Germany | James R Barker | James T Javins | Jim | Kinzer | Marde L Driscoll | Milton Beattie | Milton Beatties | Timothy S Murphy | Willard Kinzer
+gilbertsmith-d_all_documents_63,train\enron1\gilbertsmith-d_all_documents_63,train,gward1@txu.com,6,3,Jerry Ward | Mark | Mark Walker
+gilbertsmith-d_all_documents_8,train\enron1\gilbertsmith-d_all_documents_8,train,enron.announcements@enron.com,1,1,Diana Gutierrez
+gilbertsmith-d_all_documents_84,train\enron1\gilbertsmith-d_all_documents_84,train,jconto@ercot.com,1,1,"Jos, Conto"
+giron-d_all_documents_298,train\enron1\giron-d_all_documents_298,train,darron.giron@enron.com,14,12,"B. Kenne | Bythewood, Richard | Darrell Herbel | Darron C Giron | Dawn C Kenne | Dawn Wilson | Gary Wilson | John Everett | Kristin | Max Fledderjohann | Mike | Shelly"
+griffith-j_all_documents_594,train\enron1\griffith-j_all_documents_594,train,soblander@carrfut.com,1,1,Carr Futures
+grigsby-m_all_documents_390,train\enron1\grigsby-m_all_documents_390,train,mike.grigsby@enron.com,1,1,Grigsby
+haedicke-m_all_documents_805,train\enron1\haedicke-m_all_documents_805,train,mark.haedicke@enron.com,9,8,Alejandro Hernandez | Andreas | John Bloomer | Kevin Kuykendall | Mark E Haedicke | Mark Haedicke | Michael L Miller | Richard Reichardt
+hain-m_all_documents_857,train\enron1\hain-m_all_documents_857,train,erick_johnson@pngc.com,1,1,Erick Johnson
+hernandez-j_all_documents_7,train\enron1\hernandez-j_all_documents_7,train,dailyblessings.10@lists.postmastergeneral.com,0,0,
+horton-s_all_documents_208,train\enron1\horton-s_all_documents_208,train,gisb1@aol.com,0,0,
+jones-t_all_documents_5722,train\enron1\jones-t_all_documents_5722,train,tana.jones@enron.com,20,16,Anne | Brent Subject | Connor | Dave Bamberg | Fred | Fred Richoux | Garrett Whitney | Heard | Kathy Ridley | Larry | Marie Heard | Richoux | Ridley | Schafer | Tana Jones | Wagner
+jones-t_all_documents_9532,train\enron1\jones-t_all_documents_9532,train,tana.jones@enron.com,48,43,Alan Aronowitz | Andrea Calo | Bernice Rodriguez | Bill D Hare | Brant Reves | Brian Lindsay | Campbell | Claudia Clark | Cynthia Clark | David Hardy | David Minns | Debbie R Brackett | Enron Europe Global CounterParty | Europe Global Contracts | Harry M Collins | Jana Morse | Jane McBride | Jeffrey T Hodge | John Viverito | Juana Fayett | Karen Lambert | Kelly Lombardi | Leslie | Leslie Hansen | Lisa Lees | Marie Heard | Mark Taylor | Munden | Paul Maley | Peter Keohane | Rhonda L Denton | Robbi Rossi | Samuel Schott | Shari | Shari Stack | Sonya Clarke | Stephanie Sever | Tana Jones | Tanya Rohauer | Tim Davies | Tom Moran | Trang Le | William S Bradford
+kaminski-v_all_documents_4885,train\enron1\kaminski-v_all_documents_4885,train,vince.kaminski@enron.com,9,5,David | David Phillips | Jana | Ludmila | Vince
+kean-s_all_documents_391,train\enron1\kean-s_all_documents_391,train,jeffrey.keeler@enron.com,8,6,Gorton | Jack Metcalf | Murray | Patty Murray | Slade Gorton | Steve
+kuykendall-t_all_documents_108,train\enron1\kuykendall-t_all_documents_108,train,tori.kuykendall@enron.com,1,1,pat
+kuykendall-t_all_documents_5,train\enron1\kuykendall-t_all_documents_5,train,robert.hawkins@ci.austin.tx.us,7,6,"Geoff | Hawkins, Robert [ | rachel | Rachel | Robert | Tori"
+lay-k_all_documents_293,train\enron1\lay-k_all_documents_293,train,georgen@epenergy.com,13,7,Bruce Peterson | George | Ken | Kenneth | Nancy | Nancy W. | Rosalee
+linder-e_all_documents_749,train\enron1\linder-e_all_documents_749,train,bill.iii@enron.com,3,3,Bill | Geir | Ryan
+maggi-m_all_documents_35,train\enron1\maggi-m_all_documents_35,train,enron.announcements@enron.com,4,3,Bloom | Joel | Joel Bloom
+mann-k_all_documents_1641,train\enron1\mann-k_all_documents_1641,train,kay.mann@enron.com,21,17,Alan Larsen | Barton Clark | Bob Carter | Brian D Barto | Cheryl Costa | Dale Rasmussen | David K Bargainer | Karen | Karen E Jones | Kathleen Clark | Kay | Kay Mann | Peggy Banczak | Roseann Engeldorf | Scott Dieball | Sheila Tweed | Stuart Zisman
+mann-k_all_documents_3811,train\enron1\mann-k_all_documents_3811,train,pthompson@akllp.com,1,1,Cogen Gas Turbine
+mann-k_all_documents_4679,train\enron1\mann-k_all_documents_4679,train,kay.mann@enron.com,1,1,Kay
+mcconnell-m_all_documents_509,train\enron1\mcconnell-m_all_documents_509,train,cathy.phillips@enron.com,12,11,Bill White | Cathy Phillips | Chris | chris | Chris Mahoney | Don Schroeder | Greg Whalley | Jeffrey A Shankman | John L Nowlan | Mike | Mike McConnell
+mcconnell-m_all_documents_914,train\enron1\mcconnell-m_all_documents_914,train,mike.mcconnell@enron.com,8,8,Everett | Everett Plante | John Echols | Kevin Hannon | mike | Mike McConnell | Rick Causey | Tod Lindholm
+mclaughlin-e_all_documents_295,train\enron1\mclaughlin-e_all_documents_295,train,dawn.kenne@enron.com,10,10,Dawn C. | Denny | Gossett | Jeffrey | Jennifer | Kenne | Moorer | Sweitzer | Tara | Torrey
+merriss-s_all_documents_104,train\enron1\merriss-s_all_documents_104,train,jonathan.anderson@enron.com,1,1,Jonathan Anderson
+merriss-s_all_documents_162,train\enron1\merriss-s_all_documents_162,train,pete.davis@enron.com,0,0,
+merriss-s_all_documents_354,train\enron1\merriss-s_all_documents_354,train,pete.davis@enron.com,0,0,
+mims-thurston-p_all_documents_211,train\enron1\mims-thurston-p_all_documents_211,train,patrice.mims@enron.com,1,1,Dexter
+neal-s_all_documents_320,train\enron1\neal-s_all_documents_320,train,scott.neal@enron.com,2,2,Brian | Scott Neal
+neal-s_all_documents_602,train\enron1\neal-s_all_documents_602,train,scott.neal@enron.com,2,2,June | Neal
+nemec-g_all_documents_1133,train\enron1\nemec-g_all_documents_1133,train,chris.hilgert@enron.com,17,7,Chris | Chris Hilgert | Gerald | Matt | Matthew Duffy | Stephanie | Stephanie Miller
+nemec-g_all_documents_1611,train\enron1\nemec-g_all_documents_1611,train,howton.k@ghc.org,7,5,Angie | Dee | Gerald | Julie | Karry Howton
+pereira-s_all_documents_131,train\enron1\pereira-s_all_documents_131,train,susan.pereira@enron.com,4,3,Harvey Petter | Stevens | Susan
+pereira-s_all_documents_40,train\enron1\pereira-s_all_documents_40,train,susan.pereira@enron.com,5,2,Susan Pereira | Susan W Pereira
+presto-k_all_documents_36,train\enron1\presto-k_all_documents_36,train,wade.stubblefield@enron.com,7,6,Deirdre | Greg | Heather | Jim | Kristen | Wade
+quenet-j_all_documents_71,train\enron1\quenet-j_all_documents_71,train,perfmgmt@enron.com,1,1,"MISRA, NARSIMHA"
+ring-a_all_documents_40,train\enron1\ring-a_all_documents_40,train,andrea.ring@enron.com,5,3,Andrea Ring | Karen D McIlvoy | Keith
+rodrique-r_all_documents_607,train\enron1\rodrique-r_all_documents_607,train,robin.rodrigue@enron.com,1,1,Robin
+ruscitti-k_all_documents_214,train\enron1\ruscitti-k_all_documents_214,train,dkinney@columbiaenergygroup.com,2,2,Chris | Doug Kinney
+sanders-r_all_documents_1611,train\enron1\sanders-r_all_documents_1611,train,richard.sanders@enron.com,12,8,Dan Goforth | John | John Odam | John W. Odam | Richard B Sanders | Richard B. Sanders | Ted Weise | Ted Weise Richard
+schwieger-j_all_documents_75,train\enron1\schwieger-j_all_documents_75,train,jim.schwieger@enron.com,10,8,Brad | Brad Blevins | Edward D Gottlob | James McKay | Jim Schwieger | Nick | Nick Cocavessis | Thomas A Martin
+shapiro-r_all_documents_714,train\enron1\shapiro-r_all_documents_714,train,susan.landwehr@enron.com,25,24,Ajit Gill | Barbara A Hueter | Ben Jacoby | Bill J Moore | Christi L Nicolay | Donald Lassere | Edward D Baughman | Fred Mitro | Harry Kingerski | James D Steffes | Janine Migden | Jeff Ader | Jeff Rudolph | Jennifer Thome | Kerry Stroup | Marc Ulrich | Mark Bernstein | Mitch Robinson | Oscar Dalton | Robert Frank | Roy Boston | Scott Stoness | Susan M Landwehr | Terri Clynes
+shively-h_all_documents_87,train\enron1\shively-h_all_documents_87,train,hunter.shively@enron.com,5,4,Colin Tonks | Hunter S Shively | Patrice L Mims | Robert Superty
+smith-m_all_documents_78,train\enron1\smith-m_all_documents_78,train,matt.smith@enron.com,0,0,
+stepenovitch-j_all_documents_8,train\enron1\stepenovitch-j_all_documents_8,train,dleon@bracepatt.com,14,10,Derek | Derek Leon | George | george rustay | Jenn | Jennifer Garnett | Joe | Joe Step | Mr. Rustay | Step
+storey-g_all_documents_49,train\enron1\storey-g_all_documents_49,train,richard.tomaski@enron.com,4,2,Richard | Tony
+symes-k_all_documents_3677,train\enron1\symes-k_all_documents_3677,train,evelyn.metoyer@enron.com,6,4,Mark Fischer | Mike Swerzbin | Tom Alons | Williams
+taylor-m_all_documents_1511,train\enron1\taylor-m_all_documents_1511,train,carol.clair@enron.com,4,4,Carol | Chris Hilgert | Lisa | Sara
+taylor-m_all_documents_3573,train\enron1\taylor-m_all_documents_3573,train,janine.juggins@enron.com,19,16,Brent Hendry | Dale | Dale Neuner | Denny | Janine | Janine Juggins | Jeff Blumenthal | Jennifer | Laurel Adams | Mark Taylor | Melba Lozano | Robert B Cass | Sheri Thomas | Susan | Susan Musch | Trena McFarland
+taylor-m_all_documents_6239,train\enron1\taylor-m_all_documents_6239,train,justin.boyd@enron.com,5,4,Justin | Justin Boyd | Mark | Travis
+taylor-m_all_documents_7189,train\enron1\taylor-m_all_documents_7189,train,mary.cook@enron.com,2,2,Mary | Mary Cook
+tholt-j_all_documents_452,train\enron1\tholt-j_all_documents_452,train,imelda.frayre@enron.com,1,1,Imelda Frayre
+townsend-j_all_documents_2,train\enron1\townsend-j_all_documents_2,train,enron.announcements@enron.com,14,13,Bob Ward | Brian Ripley | Bryan Aubuchon | Charles Ballmer | Colin Wood | David Ricafrente | Joe Hellsten | John Jahnke | John Shupak | John Sieckman | Malcolm Wells | Mary Vollmer | Trey Rhodes
+tycholiz-b_all_documents_6,train\enron1\tycholiz-b_all_documents_6,train,barry.tycholiz@enron.com,1,1,Fran
+ward-k_all_documents_219,train\enron1\ward-k_all_documents_219,train,chris.foster@enron.com,9,6,Chris | Chris Foster | Chris H Foster | Kim Olinger | Kim Ward | Mary
+whalley-g_all_documents_255,train\enron1\whalley-g_all_documents_255,train,mvianna@tradespark.com,4,4,Matthew | McHugh | Mike | Vianna
+wolfe-j_all_documents_33,train\enron1\wolfe-j_all_documents_33,train,beth.cherry@enform.com,0,0,
+ybarbo-p_all_documents_51,train\enron1\ybarbo-p_all_documents_51,train,wayne.perry@enron.com,4,4,Jim Fernie | Paul Y'Barbo | Tony Galt | Wayne Perry
+ybarbo-p_all_documents_97,train\enron1\ybarbo-p_all_documents_97,train,miguel.maltes@enron.com,7,5,Ashu Tewari | Elizabeth | Miguel Maltes | Miguel Maltese | Paul
+badeer-r_all_documents_119,train\enron2\badeer-r_all_documents_119,train,shapp@caiso.com,1,1,Don Fuller
+badeer-r_all_documents_99,train\enron2\badeer-r_all_documents_99,train,robert.badeer@enron.com,2,2,Bob Badeer | Suzanne
+bailey-s_all_documents_8,train\enron2\bailey-s_all_documents_8,train,brant.reves@enron.com,1,1,brant
+bass-e_all_documents_1106,train\enron2\bass-e_all_documents_1106,train,eric.bass@enron.com,2,2,Garner | Glenn
+bass-e_all_documents_1485,train\enron2\bass-e_all_documents_1485,train,eric.bass@enron.com,4,3,Eric | Eric Bass | Julie
+bass-e_all_documents_906,train\enron2\bass-e_all_documents_906,train,eric.bass@enron.com,14,10,Bryan Hull | David Baumbach | Denver Plachy | Eric Bass | Jody Crook | Matthew Lenhart | Michael Walters | Neal D Winfree | Patrick Ryder | Phillip M Love
+beck-s_all_documents_4765,train\enron2\beck-s_all_documents_4765,train,enron.chairman@enron.com,1,1,Dorie Hitchcock
+benson-r_all_documents_29,train\enron2\benson-r_all_documents_29,train,enron.announcements@enron.com,13,10,Anne Heaton | Arthur Saint-L | Carl Cunningham | Copp | Desmond Heeley | Franz | Frederic Franklin | Karen Dacko | Peter Farmer | William
+buy-r_all_documents_138,train\enron2\buy-r_all_documents_138,train,rick.buy@enron.com,23,14,"Bradford, William | Carol Moffett | Dalia, Minal | Gorny, Vladimir | Gorte, David | Hachen, James | Harold | Harold Buchanan | Marty Sunde | Michael Tribolet | Minal Dalia | Rick | Ruane, Mark | Tribolet, Michael"
+buy-r_all_documents_207,train\enron2\buy-r_all_documents_207,train,rick.buy@enron.com,1,1,Rick
+campbell-l_all_documents_1167,train\enron2\campbell-l_all_documents_1167,train,owner-nyiso_tech_exchange@lists.thebiz.net,1,1,Pete Morrison
+campbell-l_all_documents_867,train\enron2\campbell-l_all_documents_867,train,anne.labbe@enron.com,1,1,Anne Labbe
+corman-s_all_documents_14,train\enron2\corman-s_all_documents_14,train,jdreskin@ingaa.org,11,11,Claire Burum | David Hendrickson | Janice Alperin | Janice Parker | Joan Dreskin | John Morris | John R. Morris | Nancy Barton | Norma Boddy | Prince McDougal | Sally Turley
+corman-s_all_documents_7,train\enron2\corman-s_all_documents_7,train,russell.tucker@enron.com,1,1,Russ
+dasovich-j_all_documents_1805,train\enron2\dasovich-j_all_documents_1805,train,jeff.dasovich@enron.com,25,15,Diane | Diane Huddelston | Diann Huddleson | Harry Kingerski | Jeff | Jeff Dasovich | Karen A Cordova | Lori Pinder | Marianne Castano | Mike Day | Mona | Mona L Petrochko | Paul Kaufman | Richard Shapiro | Susan J Mara
+davis-d_all_documents_208,train\enron2\davis-d_all_documents_208,train,marnie.lamb@enron.com,2,2,Marnie | Marnie Lamb
+davis-d_all_documents_321,train\enron2\davis-d_all_documents_321,train,dana.davis@enron.com,15,14,Adarsh Vakharia | Angeles Beltri | Brad Carey | Brian Schwertner | Cindy Stokes | Dana Davis | Hope Vargas | Kevin Jolly | Kortney Brown | Lisa Best | Lisa King | Rosalyn Lum | Rufino Doroteo | Stacy Hardy
+dean-c_all_documents_297,train\enron2\dean-c_all_documents_297,train,david.portz@enron.com,1,1,David
+dorland-c_all_documents_172,train\enron2\dorland-c_all_documents_172,train,chris.dorland@enron.com,2,2,Chris | John
+farmer-d_all_documents_2657,train\enron2\farmer-d_all_documents_2657,train,tjfarmer@juno.com,17,11,Cole | Daren | Gayle_ | Hunter | Jill | Lane | Loring_ | Ram | Ram Tackett | Susan | Tonya
+fischer-m_all_documents_126,train\enron2\fischer-m_all_documents_126,train,matthew.meyers@enron.com,10,6,Mark Fisher | Matt Meyers | Matthew Meyers | Meyers | Sheryl McCrary | William Brooks
+fossum-d_all_documents_970,train\enron2\fossum-d_all_documents_970,train,issuealert@scientech.com,6,5,Keith Butler | Mark Crosno | Vicente Fox | Will McNamara | Williams
+germany-c_all_documents_1981,train\enron2\germany-c_all_documents_1981,train,chris.germany@enron.com,13,10,Angie | Chris Germany | Ed Arnold | Gloria G Barkowsky | Heidi Griffith | James T Javins | Kim | Mary Theresa Franklin | Molly LaFuze | Wade R Price
+gilbertsmith-d_all_documents_67,train\enron2\gilbertsmith-d_all_documents_67,train,parviz.adib@puc.state.tx.us,2,2,Parviz Adib | Shmuel Oren
+gilbertsmith-d_all_documents_76,train\enron2\gilbertsmith-d_all_documents_76,train,jposey@ercot.com,1,1,Jessica M. Posey
+gilbertsmith-d_all_documents_95,train\enron2\gilbertsmith-d_all_documents_95,train,mike.curry@enron.com,0,0,
+giron-d_all_documents_182,train\enron2\giron-d_all_documents_182,train,darron.giron@enron.com,0,0,
+giron-d_all_documents_598,train\enron2\giron-d_all_documents_598,train,darron.giron@enron.com,1,1,Kristi
+giron-d_all_documents_721,train\enron2\giron-d_all_documents_721,train,darron.giron@enron.com,1,1,Darron C Giron
+giron-d_all_documents_97,train\enron2\giron-d_all_documents_97,train,darron.giron@enron.com,35,34,Bianca Ornelas | Bob Bowen | Celeste Cisneros | Cindy Feldman | Darron C Giron | David Baumbach | Derek Bailey | Diane Anderson | Dianne Seib | Ellen Wallumrod | Errol McLaughlin | Janie Aguayo | Jean Bell | Jeffrey C Gossett | Julie Brewer | Kam Keiser | Kim S Theriot | Larry Joe Hunter | Lesli Campbell | Leslie Reeves | Linda Sietzema | Melinda Whalen | Nidia Mendoza | Patricia Boulanger | Phillip M Love | Richard Deming | Russell Diamond | Sharon Crawford | Tanya Rohauer | Tiffany Williams | Tom Moran | Veronica Espinoza | Veronica Gonzalez | Walter Guidroz
+grigsby-m_all_documents_264,train\enron2\grigsby-m_all_documents_264,train,mike.grigsby@enron.com,1,1,Mike
+guzman-m_all_documents_206,train\enron2\guzman-m_all_documents_206,train,bill.iii@enron.com,4,4,Bill | Kourtney | Lisa | Stacy
+hain-m_all_documents_448,train\enron2\hain-m_all_documents_448,train,bwoertz@caiso.com,2,2,Byron B. Woertz | Byron Woertz
+hendrickson-s_all_documents_38,train\enron2\hendrickson-s_all_documents_38,train,scharnberger-armin@t-online.de,0,0,
+hernandez-j_all_documents_224,train\enron2\hernandez-j_all_documents_224,train,internet-html@emazing.com,13,12,Audio Tip | Brain Candy | Click | Dennis Ryan | Edit | Enya | Fantasia | George Clooney | Jobs | Mark Twain | Matthew Henson | Olaf Olafsson
+hernandez-j_all_documents_314,train\enron2\hernandez-j_all_documents_314,train,dailyblessings.10@lists.postmastergeneral.com,0,0,
+hernandez-j_all_documents_846,train\enron2\hernandez-j_all_documents_846,train,juan.hernandez@enron.com,7,5,Christopher Watts | Don Baughman | John Kinser | Juan Hernandez | Kurt
+hodge-j_all_documents_228,train\enron2\hodge-j_all_documents_228,train,jeffrey.hodge@enron.com,3,3,Janet Dietrich Ed McMichael Scott Neal Phillip Allen | Jeff | Sheila
+hyvl-d_all_documents_2186,train\enron2\hyvl-d_all_documents_2186,train,walter.guidroz@enron.com,6,4,Clement | Guidroz | Ken Theis | Walter
+hyvl-d_all_documents_23,train\enron2\hyvl-d_all_documents_23,train,dan.hyvl@enron.com,1,1,Melissa
+jones-t_all_documents_10348,train\enron2\jones-t_all_documents_10348,train,tana.jones@enron.com,1,1,Lisa Lees
+kean-s_all_documents_10954,train\enron2\kean-s_all_documents_10954,train,kathy.mcmahon@enron.com,16,8,Gary Hamel | Grace | Kathy McMahon | Marge Nadasky | Steve | Steve Kean | Terrie | Terrie James
+keavey-p_all_documents_388,train\enron2\keavey-p_all_documents_388,train,sivy@listserv.pathfinder.com,2,2,Michael | Michael Sivy
+king-j_all_documents_10,train\enron2\king-j_all_documents_10,train,outlook.team@enron.com,0,0,
+king-j_all_documents_13,train\enron2\king-j_all_documents_13,train,outlook.team@enron.com,0,0,
+kuykendall-t_all_documents_11,train\enron2\kuykendall-t_all_documents_11,train,rebecca.cantrell@enron.com,3,3,Jeffrey Watkiss | Randall Rich | Rebecca W Cantrell
+lay-k_all_documents_484,train\enron2\lay-k_all_documents_484,train,unwire-listadmin@client-mail.com,6,6,Coretta King | Mbeki | Milosevic | National Journal Group | Registration | Steve Hirsch
+linder-e_all_documents_68,train\enron2\linder-e_all_documents_68,train,pete.davis@enron.com,0,0,
+love-p_all_documents_750,train\enron2\love-p_all_documents_750,train,phillip.love@enron.com,1,1,Jason
+maggi-m_all_documents_25,train\enron2\maggi-m_all_documents_25,train,outlook.team@enron.com,0,0,
+martin-t_all_documents_92,train\enron2\martin-t_all_documents_92,train,adam.johnson@enron.com,1,1,Adam Johnson
+may-l_all_documents_4,train\enron2\may-l_all_documents_4,train,larry.may@enron.com,2,2,Larry | Steve
+mcconnell-m_all_documents_683,train\enron2\mcconnell-m_all_documents_683,train,mike.mcconnell@enron.com,6,5,Cindy | Jerry Mundy | Mike | mike | Mike McConnell
+mclaughlin-e_all_documents_954,train\enron2\mclaughlin-e_all_documents_954,train,errol.mclaughlin@enron.com,15,14,Dawn C Kenne | Dawn C. | Denny | Errol | Errol McLaughlin | Gossett | Jeff | Jeffrey | Jennifer | Kenne | Moorer | Sweitzer | Tara | Torrey
+mims-thurston-p_all_documents_115,train\enron2\mims-thurston-p_all_documents_115,train,patrice.mims@enron.com,7,6,Hunter S Shively | James Simpson | Jason Williams | Kay Classen | Patrice L Mims | Richard Tomaski
+panus-s_all_documents_1,train\enron2\panus-s_all_documents_1,train,agustin.perez@enron.com,16,9,Agustin | Agustin Perez | Brent Hendry | Jaime Williams | Paul | Paul Radous | Samantha Boyd | Stephanie | Stephanie Panus
+perlingiere-d_all_documents_1949,train\enron2\perlingiere-d_all_documents_1949,train,debra.perlingiere@enron.com,1,1,Debra Perlingiere
+ring-a_all_documents_11,train\enron2\ring-a_all_documents_11,train,diane.cook@enron.com,3,3,Diane | Elsa Piekielniak | Greg
+rogers-b_all_documents_1199,train\enron2\rogers-b_all_documents_1199,train,benjamin.rogers@enron.com,1,1,Ben
+ruscitti-k_all_documents_1,train\enron2\ruscitti-k_all_documents_1,train,etradeservice@etrade.0mm.com,1,1,Kevin
+ruscitti-k_all_documents_60,train\enron2\ruscitti-k_all_documents_60,train,keith.irani@cgc.enbridge.com,1,1,Keith Irani
+sager-e_all_documents_1961,train\enron2\sager-e_all_documents_1961,train,christian.yoder@enron.com,6,6,Bill | Elizabeth | Ken | Ken Raisler | Shari | Tracy
+saibi-e_all_documents_9,train\enron2\saibi-e_all_documents_9,train,kevin.cline@enron.com,0,0,
+sanchez-m_all_documents_3,train\enron2\sanchez-m_all_documents_3,train,buzzboys@mindspring.com,0,0,
+sanders-r_all_documents_6530,train\enron2\sanders-r_all_documents_6530,train,richard.sanders@enron.com,13,9,Aleck | Aleck Dadson | Larry | Larry E. Ruff | Larry Ruff | Richard B Sanders | Richard Shapiro | Web Macdonald | Web MacDonald
+sanders-r_all_documents_723,train\enron2\sanders-r_all_documents_723,train,mark.haedicke@enron.com,3,2,Mark E Haedicke | Will McNamara
+scott-s_all_documents_197,train\enron2\scott-s_all_documents_197,train,mday@gmssr.com,3,2,Mike Day | Paul Amirault
+scott-s_all_documents_25,train\enron2\scott-s_all_documents_25,train,susan.scott@enron.com,3,2,Ann | Ripley
+scott-s_all_documents_685,train\enron2\scott-s_all_documents_685,train,craigl@calpine.com,3,2,Craig | Susan
+shackleton-s_all_documents_3154,train\enron2\shackleton-s_all_documents_3154,train,mary.cook@enron.com,18,9,Greg | Greg Johnston | Mary | Mary Cook | Peter | Peter Keohane | Sharon Crawford | Stuart | Stuart Zisman
+shively-h_all_documents_17,train\enron2\shively-h_all_documents_17,train,hunter.shively@enron.com,16,15,"Bryant Frihart | Cheyne Hub | Chris Meyer | Deirdre McCaffrey | Elliott, Mark | Hunter S Shively | Julie A Gomez | King, Donny W | Laura Luce | Lynn Pikofsky | Mark Whitt | Michael J Legler | Sanders, Dale T. | Stephanie Miller | Sylvia S Pollan"
+shively-h_all_documents_200,train\enron2\shively-h_all_documents_200,train,hunter.shively@enron.com,1,1,Greg Couch
+storey-g_all_documents_33,train\enron2\storey-g_all_documents_33,train,russ.severson@enron.com,1,1,Russ Severson
+symes-k_all_documents_1142,train\enron2\symes-k_all_documents_1142,train,kimberly.allen@enron.com,0,0,
+symes-k_all_documents_897,train\enron2\symes-k_all_documents_897,train,kate.symes@enron.com,8,8,Chris | chris | chris mallory | kate | Kate | Kate Symes | Kerri Thompson | Stephanie Piwetz
+tholt-j_all_documents_22,train\enron2\tholt-j_all_documents_22,train,enron.announcements@enron.com,1,1,Monique Blacklock
+townsend-j_all_documents_78,train\enron2\townsend-j_all_documents_78,train,judy.townsend@enron.com,1,1,Judy Townsend
+tycholiz-b_all_documents_19,train\enron2\tycholiz-b_all_documents_19,train,barry.tycholiz@enron.com,5,4,Barry Tycholiz | Julie | Julie A Gomez | Stephanie Miller
+whalley-g_all_documents_595,train\enron2\whalley-g_all_documents_595,train,mark.brand@enron.com,1,1,Mark
+wheldon-c_all_documents_179,train\enron2\wheldon-c_all_documents_179,train,v.weldon@enron.com,6,4,Bill Bodine | Mike A Roberts | V Charles Weldon | V.Charles.Weldon
+white-s_all_documents_60,train\enron2\white-s_all_documents_60,train,jennifer.nguyen@enron.com,1,1,Jennifer
+white-s_all_documents_65,train\enron2\white-s_all_documents_65,train,jeff_deanna_harris@hotmail.com,3,2,Deanna | Will
+ybarbo-p_all_documents_90,train\enron2\ybarbo-p_all_documents_90,train,gary.monk@enron.com,1,1,Gary Monk
+zipper-a_all_documents_63,train\enron2\zipper-a_all_documents_63,train,lydia.cannon@enron.com,0,0,
+allen-p_all_documents_505,train\enron3\allen-p_all_documents_505,train,phillip.allen@enron.com,6,5,Doug Bell | Jeff Smith | Phillip | Phillip K Allen | Wayne McCoy
+badeer-r_all_documents_141,train\enron3\badeer-r_all_documents_141,train,dfuller@caiso.com,2,2,Don Fuller | Keith Casey
+bailey-s_all_documents_13,train\enron3\bailey-s_all_documents_13,train,outlook.team@enron.com,0,0,
+bass-e_all_documents_1290,train\enron3\bass-e_all_documents_1290,train,eric.bass@enron.com,7,2,Celeste Roberts | Eric Bass
+bass-e_all_documents_2137,train\enron3\bass-e_all_documents_2137,train,eric.bass@enron.com,5,5,Eric Bass | jason | KATHY BASS | Larry Knigge | Larry W. Bass
+baughman-e_all_documents_118,train\enron3\baughman-e_all_documents_118,train,stewart@mallia.com,0,0,
+beck-s_all_documents_3753,train\enron3\beck-s_all_documents_3753,train,sally.beck@enron.com,20,18,Andrew Cornfield | Brenda F Herod | Chris Abel | Debbie | Debbie R Brackett | James New | Jeffrey C Gossett | Kathy Reeves | Kim S Theriot | Leslie Reeves | Martha Stevens | Michael E Moscoso | Michelle Bruce | Sally Beck | Scott Earnest | Shona Wilson | Stacey W White | William S Bradford
+brawner-s_all_documents_104,train\enron3\brawner-s_all_documents_104,train,sandra.brawner@enron.com,2,2,Jon | Tom
+campbell-l_all_documents_236,train\enron3\campbell-l_all_documents_236,train,rick.suderman@enron.com,8,8,Butch Russell | Edward Attanasio | John Shafer | Louis Soldano | Rich Jolly | Rick | Rick Suderman | William Kendrick
+dasovich-j_all_documents_4575,train\enron3\dasovich-j_all_documents_4575,train,margo.reyna@enron.com,1,1,Margo Reyna
+delainey-d_all_documents_179,train\enron3\delainey-d_all_documents_179,train,david.delainey@enron.com,15,10,Christopher F Calger | Dave Delainey | David | David W Delainey | Delainey | Joe | John J Lavorato | Mark | Tim | Tim Belden
+delainey-d_all_documents_222,train\enron3\delainey-d_all_documents_222,train,david.delainey@enron.com,3,3,Chris | Delainey | Don Whalley
+delainey-d_all_documents_370,train\enron3\delainey-d_all_documents_370,train,david.delainey@enron.com,5,5,Delainey | Don Miller | Kay | Mike Childers | Mike Miller
+delainey-d_all_documents_596,train\enron3\delainey-d_all_documents_596,train,kay.chapman@enron.com,50,50,Ana Alcantara | Angela McCulloch | Angie Collins | Brian Redmond | Carolyn George | Catherine DuMont | Christopher F Calger | Christy Chapman | Crenshaw | Dave | David Duran | David W Delainey | Debra Davidson | Delainey | Donna Baker | Dusty Warren Paez | Edward Ondarza | Felicia Doan | Gary Hickerson | George McClellan | Jaime Alatorre | James A Ajello | Janet R Dietrich | Janette Elbertson | Jeff Donahue | Jere C Overdyke | John J Lavorato | Julia Murray | Katherine Benedict | Kay | Kay Chapman | Kevin M | Kimberly Hillis | Mark E Haedicke | Marsha Schiller | Mike Jakubik | Nicole Mayer | Patti Thompson | Raymond Bowen | Rodney Malcolm | Sally Beck | Scott Josey | Shirley Tijerina | Stella L Ely | Terrellyn Parker | Tim Belden | Tina Rode | Tonai Lehr | Vince J Kaminski | Wes Colwell
+derrick-j_all_documents_41,train\enron3\derrick-j_all_documents_41,train,cindy.derecskey@enron.com,22,14,Ann M Schmidt | Cheryl Devoe Kim | Cheryl Kim | Cindy Derecskey | Craig | David Bloom | Eric Thode | Ken Peterson | Mark Palmer | Owen Craig | Palmer | Peterson | Thode | Wayne St. Amour
+derrick-j_all_documents_50,train\enron3\derrick-j_all_documents_50,train,rob.walls@enron.com,33,16,Harry M Collins | John Cummings | Julia Murray | Justin | Justin Boyd | Lena | Mark Taylor | Peter | Sandeep | Sandeep Katwala | Sarah G | Travis | Travis McCullough | Vecchio | Wade | Wade Cline
+dickson-s_all_documents_169,train\enron3\dickson-s_all_documents_169,train,stacy.dickson@enron.com,28,27,"Alatorre, Carlos | Blumenthal, Jeff | Cass, Robert B. | Chris Walker | Dickson, Stacy | Hayden, Frank | Hunter, Larry Joe | Jones, Tana | Kenne, Dawn C. | Kevin Ruscitti | Lambert, Karen | Lees, Lisa | Lombardi, Kelly | Love, Phillip M. | Lozano, Melba | Mark | Mark Taylor | Meredith, Kevin | Moorer, Torrey | Moran, Tom | Musch, Susan | Sever, Stephanie | Stacy | Stacy E Dickson | Sweitzer, Tara | Taylor, Mark | Walker, Chris"
+donohoe-t_all_documents_125,train\enron3\donohoe-t_all_documents_125,train,perfmgmt@enron.com,7,7,"ELLEDGE, SUSAN | ESPEY, DARREN | KINSEY, LISA M | LENART, KIRK D | MAHMASSANI, SOUAD | WHITE, JESSICA | WILLIAMS, JASON C"
+fischer-m_all_documents_273,train\enron3\fischer-m_all_documents_273,train,garth.ripton@enron.com,18,13,"Andre Riesberg | Clemens | Clemens W""ste | Detlef Menke | Garth | Garth Ripton | Gert | Gert Torbohm | Hallo Zusammen | Klaus Holtel | Mark | Thema | Till Hoffmann"
+giron-d_all_documents_201,train\enron3\giron-d_all_documents_201,train,darron.giron@enron.com,5,5,Darron | Darron C Giron | Kristen Clause | Tricia | Tricia Truong
+griffith-j_all_documents_95,train\enron3\griffith-j_all_documents_95,train,info@designzine.com,2,2,Grace Jeffers | Mel Byars
+grigsby-m_all_documents_32,train\enron3\grigsby-m_all_documents_32,train,nytdirect@nytimes.com,11,11,Adams | Alyson Racer | Cheney | Douglas Adams | Floyd Norris | Joppy | MAUREEN DOWD | PAUL KRUGMAN | Perry Como | Steinbrenner | Trinidad
+grigsby-m_all_documents_78,train\enron3\grigsby-m_all_documents_78,train,ntsbpressreleases@ntsb.gov,1,1,Terry Williams
+guzman-m_all_documents_106,train\enron3\guzman-m_all_documents_106,train,pete.davis@enron.com,0,0,
+haedicke-m_all_documents_4710,train\enron3\haedicke-m_all_documents_4710,train,support@cleonline.com,12,12,Austin | Dallas | David Hricik | Dianna C. Roberts | James Randall Smith | Mark | Martha Sullivan | Michael De La Rosa | Mike De La Rosa | Monica Bay | Ruth Kollman | Scott Durfee
+haedicke-m_all_documents_5430,train\enron3\haedicke-m_all_documents_5430,train,mark.haedicke@enron.com,98,93,Agnes Foy | alban caillemer | anna lawry | annette Hoener | anthony redstone | arnaud duhamel | asa engstrom | benoit de Vitry | bernadette Willis | brian peyton | Bruno Plaskow | Caroline Szatmari | carrie fleming | charles barrett | Christian Bettley | christophe chassard | clare hatcher | Claude Brown | Claude Unge | David Carter | david fransen | edward murray | elisabeth bertin | Emmanuelle Sebton | Eric Rothman | fatima bentoumi | Fiona Smith | Gareth Williams | heather pilley | iona levine | James Powell | Jay Hellums | Jeffrey Golden | John Berry | john fry | Jolie Norris | jon ibbotson | Joseph Carrico | judith | Judith Birch | justin boyd | keir prince | laurence garside | lesley stockwell | linda klein | louise bernstein | Louise Kendall | louise kitchen | Luanne Giessen | maria garland | marion Sommerkorn | Mark | Mark E Haedicke | Mark Haedicke | mary saul | Mehboob Hoque | ned swan | nick perry | Olof Myhrman | paivi toivari | paul castanon | paul newman | Paul Simons | pedro diaz | Per Westerberg | Peter Verbiest | Peter Werner | philip henderson | Philipee Lautard | pierre chevalier | rebecca bond | rita pearson-schwandt | Robert Finney | roberto colacchia | Rosali Pretorius | Ruth Ainslie | sanjev; sara rumberg | seema bal-thakrar | simon smith | Stacy Carey | steve ciampi | Steven Crotch | thelma loshkajian | therese cochrane | thierry groell | Thomas Jones | Thomas Werlen | Tim Arcedeckne-Butler | tjepco van voorst vader | tom hunter | tony fisher | toshiro takino | Ulrike Schefe
+hain-m_all_documents_620,train\enron3\hain-m_all_documents_620,train,pljacklin@stoel.com,21,21,Darcy Norville | David Hoff | Dennis Parrish | Doug Brawley | Eric Johnson | Geoff Carr | Jacklin | Jay Waldron | Kevin Clark | Kyle Sciuchetti | Linc Wolverton | Lon Peters | Lynn Williams | Mark Hellman | Pam Jacklin | Pamela | Peter Richardson | Ray Kindley | Scott Brattebo | Steve Weiss | Terry Mundorf
+hayslett-r_all_documents_145,train\enron3\hayslett-r_all_documents_145,train,patrick.cagney@enron.com,1,1,Jeff Brockman
+heard-m_all_documents_2,train\enron3\heard-m_all_documents_2,train,marie.heard@enron.com,4,4,Bianca | Francisco Pinto Leite | Marie | Marie Heard
+horton-s_all_documents_207,train\enron3\horton-s_all_documents_207,train,gisb1@aol.com,0,0,
+horton-s_all_documents_605,train\enron3\horton-s_all_documents_605,train,cindy.stark@enron.com,2,2,Conners | Stan Horton
+hyvl-d_all_documents_2105,train\enron3\hyvl-d_all_documents_2105,train,dan.hyvl@enron.com,5,4,Dan | Dan Hyvl | Kim | Kim Ward
+hyvl-d_all_documents_2336,train\enron3\hyvl-d_all_documents_2336,train,kim.ward@enron.com,3,3,Art | Barry | Kim
+jones-t_all_documents_717,train\enron3\jones-t_all_documents_717,train,molly.harris@enron.com,1,1,Molly
+kaminski-v_all_documents_666,train\enron3\kaminski-v_all_documents_666,train,vince.kaminski@enron.com,14,12,"Andres Almazan | Art Warga | Bob Parrino | Dave Ikenberry | David Ikenberry | Geoge Gau | John Freeman | Michael Weisbach | Sheridan Titman | Sheridan, Bob | Vince | Vince J Kaminski"
+kean-s_all_documents_45,train\enron3\kean-s_all_documents_45,train,steven.kean@enron.com,1,1,Ebert
+keavey-p_all_documents_384,train\enron3\keavey-p_all_documents_384,train,enron.announcements@enron.com,3,3,Jessica | Ralph Waldo Emerson | Stewart Cubley
+lay-k_all_documents_550,train\enron3\lay-k_all_documents_550,train,rex.rogers@enron.com,0,0,
+lokay-m_all_documents_419,train\enron3\lokay-m_all_documents_419,train,gpg.announcement@enron.com,1,1,LaDonna Dervin
+lokay-m_all_documents_942,train\enron3\lokay-m_all_documents_942,train,lindy.donoho@enron.com,8,7,Christine Stokes | Jeffery Fawcett | Kevin Hyatt | Lindy Donoho | Lohman | Lorraine Lindberg | Steven Harris
+love-p_all_documents_830,train\enron3\love-p_all_documents_830,train,phillip.love@enron.com,0,0,
+maggi-m_all_documents_34,train\enron3\maggi-m_all_documents_34,train,enron.announcements@enron.com,3,2,Bloom | Joel Bloom
+maggi-m_all_documents_4,train\enron3\maggi-m_all_documents_4,train,mheffner@carrfut.com,3,3,Carr | Carr Futures | Sarah
+mann-k_all_documents_5055,train\enron3\mann-k_all_documents_5055,train,rebecca.walker@enron.com,4,4,Ben Jacoby | Catherine Clark | Kay | Rebecca
+mann-k_all_documents_923,train\enron3\mann-k_all_documents_923,train,fred.mitro@enron.com,1,1,Fred
+may-l_all_documents_424,train\enron3\may-l_all_documents_424,train,alex@pira.com,3,3,John Graziano | Morris Greenberg | Victoria Watkins
+may-l_all_documents_74,train\enron3\may-l_all_documents_74,train,enron.announcements@enron.com,3,3,Charles Ballmer | Darryl Vinson | Dennis McGough
+mcconnell-m_all_documents_584,train\enron3\mcconnell-m_all_documents_584,train,mike.mcconnell@enron.com,12,7,Bridget Fraser | Chris | John | John Sherriff | Mike | Mike John Sherriff | Mike McConnell
+mcconnell-m_all_documents_726,train\enron3\mcconnell-m_all_documents_726,train,mike.mcconnell@enron.com,2,2,Dana | Mike
+mckay-b_all_documents_44,train\enron3\mckay-b_all_documents_44,train,brad.mckay@enron.com,1,1,Graydon
+mckay-b_all_documents_65,train\enron3\mckay-b_all_documents_65,train,brad.mckay@enron.com,1,1,Jim
+mclaughlin-e_all_documents_432,train\enron3\mclaughlin-e_all_documents_432,train,errol.mclaughlin@enron.com,5,5,Derek | Derek Bailey | Errol | Errol McLaughlin | Larry Joe Hunter
+mims-thurston-p_all_documents_168,train\enron3\mims-thurston-p_all_documents_168,train,patrice.mims@enron.com,0,0,
+neal-s_all_documents_459,train\enron3\neal-s_all_documents_459,train,scott.neal@enron.com,3,3,Dave Delainey | Ernie | Scott Neal
+neal-s_all_documents_622,train\enron3\neal-s_all_documents_622,train,rob.brown@enron.com,3,3,Rob Brown | Scott | Tod
+nemec-g_all_documents_5142,train\enron3\nemec-g_all_documents_5142,train,gerald.nemec@enron.com,6,5,Gerald Nemec | Mark Whitt | Paul T Lucci | Tyrell | Tyrell Harrison
+nemec-g_all_documents_5801,train\enron3\nemec-g_all_documents_5801,train,kckrisa@apex2000.net,3,3,Barry Loyd | gerald | Ken
+perlingiere-d_all_documents_3879,train\enron3\perlingiere-d_all_documents_3879,train,debra.perlingiere@enron.com,7,5,"Debra Perlingiere | Esmeralda Gonzalez | Gonzalez, Esmeralda | Granado | STEPHANIE GRANADO"
+presto-k_all_documents_33,train\enron3\presto-k_all_documents_33,train,kim.melodick@enron.com,20,18,"Buckley, Karen | D. Dupre | G. Giron | John | Karen | Karen Buckley | Kevin | Louise | M Taylor | M. Philippov | Melodick, Kim | R. Williams | S. Pan | T. Lindvall | T. Lowell | W. Freije | W. Gurrola | Z. Costello"
+presto-k_all_documents_37,train\enron3\presto-k_all_documents_37,train,vladimir.gorny@enron.com,2,2,Eli Lily | Vlady
+ring-a_all_documents_76,train\enron3\ring-a_all_documents_76,train,andrea.ring@enron.com,2,1,Andrea Ring
+rogers-b_all_documents_1188,train\enron3\rogers-b_all_documents_1188,train,benjamin.rogers@enron.com,1,1,Ben
+saibi-e_all_documents_3,train\enron3\saibi-e_all_documents_3,train,karla.compean@enron.com,2,2,Eric | Karla Compean
+sanchez-m_all_documents_4,train\enron3\sanchez-m_all_documents_4,train,ina.rangel@enron.com,1,1,Ina Rangel
+scott-s_all_documents_358,train\enron3\scott-s_all_documents_358,train,jeffery.fawcett@enron.com,4,3,Norm | Pedersen | Susan
+scott-s_all_documents_536,train\enron3\scott-s_all_documents_536,train,susan.scott@enron.com,11,11,"Bates, Jere | Dave | Dave Nocera | Gerald | Gerald Nemec | Jere | Jere Bates | Nocera | Stribling, Richard | Susan | Susan Scott"
+shackleton-s_all_documents_54,train\enron3\shackleton-s_all_documents_54,train,sara.shackleton@enron.com,3,3,Morris Clark | Sara Shackleton | Steve Douglas
+shapiro-r_all_documents_1683,train\enron3\shapiro-r_all_documents_1683,train,janine.ponsart@bakernet.com,3,2,Jonathan W. Gottlieb | Michael J. Zimmer
+shively-h_all_documents_57,train\enron3\shively-h_all_documents_57,train,hunter.shively@enron.com,0,0,
+south-s_all_documents_20,train\enron3\south-s_all_documents_20,train,ina.rangel@enron.com,2,2,Foley | Ina
+south-s_all_documents_4,train\enron3\south-s_all_documents_4,train,miki.bode@williams.com,5,4,Candace C. Karpakis | Candace Karpakis | Patrick Aman | Sumas
+south-s_all_documents_67,train\enron3\south-s_all_documents_67,train,enron.announcements@enron.com,1,1,Jeff Leath
+stclair-c_all_documents_1808,train\enron3\stclair-c_all_documents_1808,train,carol.clair@enron.com,2,2,Carol | Rhett
+storey-g_all_documents_29,train\enron3\storey-g_all_documents_29,train,jeffrey.gossett@enron.com,6,4,Colleen | Colleen Sullivan | Geoff | Jeffrey C Gossett
+storey-g_all_documents_46,train\enron3\storey-g_all_documents_46,train,zhiyong.wei@enron.com,32,20,"Beth Perlman | Bibi, Philippe A. | Colleen | Colleen Sullivan | Geof | Geoff | Geoff Storey | Kitchen, Louise | Louise | Louise Kitchen | Perlman, Beth | Philippe A Bibi | Schoppe, Tammie | Stephen Stock | Stock, Stephen | Storey, Geoff | Sullivan, Colleen | Wei, Zhiyong | Zhiyong | Zhiyong Wei"
+sturm-f_all_documents_238,train\enron3\sturm-f_all_documents_238,train,tysongs@aol.com,2,1,Gregg Tyson
+symes-k_all_documents_1395,train\enron3\symes-k_all_documents_1395,train,kimberly.allen@enron.com,2,2,Kate | Mallory
+taylor-m_all_documents_1137,train\enron3\taylor-m_all_documents_1137,train,michael.etringer@enron.com,5,3,Christian | Mike | Tim Belden
+ward-k_all_documents_278,train\enron3\ward-k_all_documents_278,train,jason.williams@enron.com,13,10,"Ann | Charles Hinckley | Chuck | Jay Williams | Kim | Kim Ward | Lyons, Mark | Tycholiz, Barry | Ward, Kim | Williams, Jason R."
+whalley-g_all_documents_147,train\enron3\whalley-g_all_documents_147,train,greg.whalley@enron.com,2,2,Greg Whalley | John Arnold
+whalley-l_all_documents_1007,train\enron3\whalley-l_all_documents_1007,train,gordon.mckillop@enron.com,0,0,
+whalley-l_all_documents_302,train\enron3\whalley-l_all_documents_302,train,thomas.gros@enron.com,1,1,Tom
+wolfe-j_all_documents_91,train\enron3\wolfe-j_all_documents_91,train,beth.cherry@enform.com,1,1,Marisha
+ybarbo-p_all_documents_98,train\enron3\ybarbo-p_all_documents_98,train,miguel.maltes@enron.com,25,19,April | Barbo | bill | Federico Haeussler | Greg Curran | Javier Chavarria | July Mont Belvieu | June | June Mont Belvieu | Mariella Mahan | May Mont Belvieu | Miguel Maltes | Next Cargo | Paul | Paul Greg Curran | Saludos Paul | San Juan Gas | Suzanne | Suzanne B Clapp
+allen-p_all_documents_113,train\enron5\allen-p_all_documents_113,train,phillip.allen@enron.com,8,6,Claudia L. Crocker | George Richards | Keith | Larry Lewter | Phillip Allen | Phillip K Allen
+allen-p_all_documents_595,train\enron5\allen-p_all_documents_595,train,phillip.allen@enron.com,2,2,George | Phillip
+allen-p_all_documents_599,train\enron5\allen-p_all_documents_599,train,phillip.allen@enron.com,2,2,Frank | Phillip Allen
+arnold-j_all_documents_454,train\enron5\arnold-j_all_documents_454,train,john.arnold@enron.com,2,2,John | Scott
+arnold-j_all_documents_830,train\enron5\arnold-j_all_documents_830,train,john.arnold@enron.com,1,1,Steve LaFontaine
+badeer-r_all_documents_175,train\enron5\badeer-r_all_documents_175,train,office.chairman@enron.com,23,18,Dave Delainey | Gary Hickers | George McClellan | Greg Whalley | Jeff | Jeff McMahon | Jeff Shankman | Jere Overdyke | John Lavorato | John Nowlan | Louise | Louise Kitchen | Mark | Mark Frevert | Mike | Mike McConnell | Philippe | Philippe Bibi
+badeer-r_all_documents_257,train\enron5\badeer-r_all_documents_257,train,bwoertz@caiso.com,0,0,
+badeer-r_all_documents_274,train\enron5\badeer-r_all_documents_274,train,robert.badeer@enron.com,2,2,Bob | James D. Harvey
+bass-e_all_documents_713,train\enron5\bass-e_all_documents_713,train,brian.hoskins@enron.com,6,3,Brian Hoskins | Brian T. Hoskins | John House
+baughman-e_all_documents_255,train\enron5\baughman-e_all_documents_255,train,kayne.coulter@enron.com,25,22,Cheryl Kumhyr | Corry Bentley | David Cormie | David Cormie Manager | Denise Mortimer | Doug Sewell | Edward D Baughman | Fletcher J Sturm | Garry Yonda | Glen Mathews | Greg Wolfe | Jason Choate | Jeff King | Kayne Coulter | Kelly Bertholet | Kevin M Presto | Lloyd Kuczek | Matt Lorenz | Ron Warcimaga | Rudy Spack | Ryan Hehn | Terri Clynes
+baughman-e_all_documents_268,train\enron5\baughman-e_all_documents_268,train,kayne.coulter@enron.com,5,4,J.P. | Jon Paul Lewis | Kayne | Kayne Coulter
+beck-s_all_documents_1513,train\enron5\beck-s_all_documents_1513,train,patti.thompson@enron.com,3,3,Rick Causey | Sally | Sally Beck
+campbell-l_all_documents_1368,train\enron5\campbell-l_all_documents_1368,train,larry.campbell@enron.com,35,32,Aaron Gregory | Angel Backes | Annette Brandes | Benjamin Hogan | Bill Van Pelt | Britney | Cathy Webb | Cheryl G. | Darrell Hickman | Dave Welch | Dennis Umeno | Gail Van Pelt | Jane Ku | Jill Danker | Julie | Karen Van Pelt | Larry F Campbell | Lesli | Matt | Matt Tedrow | Michael Campbell | Mike Van Pelt | Mitch Webb | Natasha Pryse | Neely Shaw | Rachelle Bennett | Ramzy | Scott Lanehart | Sumit Patel | Tim Campbell | Tonishia Van Pelt | Veronica Dare
+corman-s_all_documents_8,train\enron5\corman-s_all_documents_8,train,dassistance@ingaa.org,4,3,John Morris | John R. Morris | Morris
+cuilla-m_all_documents_95,train\enron5\cuilla-m_all_documents_95,train,martin.cuilla@enron.com,0,0,
+dasovich-j_all_documents_21165,train\enron5\dasovich-j_all_documents_21165,train,richard.costigan@asm.ca.gov,1,1,Richard Costigan
+davis-d_all_documents_252,train\enron5\davis-d_all_documents_252,train,twcpgjbj@aol.com,4,4,Charles Wayne | Klumps Renee Davis | Magoo | Pat
+dean-c_all_documents_151,train\enron5\dean-c_all_documents_151,train,dgagliardi@reliantenergy.com,36,26,Applewhite | Artie Ellis | B. J. Johnson | Beau Trahan | Brock Edwards | Brown | Chris Simms | Courtnee Garcia | David M Gagliardi | Derrick Johnson | Dewayne Brandon | Edwards | Jerry Scarbrough | Johnson | Kansas | Killeen Ellison | Lovell Pinkney | Mack Brown | Michael Gagliardi | Mike Jones | Roy Williams | Ryan Haywood | Simms | Stevie Lee | Tommie Harris | Williams
+delainey-d_all_documents_470,train\enron5\delainey-d_all_documents_470,train,david.delainey@enron.com,16,12,Delainey | Jeff | Laura | Lou | Lou Pai | Mark | Mark Muller | Tom | Tom Patrick | Tony Altman | Wes | Wes Colwell
+derrick-j_all_documents_15,train\enron5\derrick-j_all_documents_15,train,stephanie.harris@enron.com,4,2,CFP | JVD
+derrick-j_all_documents_57,train\enron5\derrick-j_all_documents_57,train,james.derrick@enron.com,6,5,James | James Derrick | Jim | Pat Brandt | Patrick C. Brandt
+donohoe-t_all_documents_34,train\enron5\donohoe-t_all_documents_34,train,enron.announcements@enron.com,1,1,Khrissy Griffin
+dorland-c_all_documents_195,train\enron5\dorland-c_all_documents_195,train,chris.dorland@enron.com,2,2,Chris Dorland | Ryan
+ermis-f_all_documents_266,train\enron5\ermis-f_all_documents_266,train,melanie.hunter@neg.pge.com,0,0,
+fischer-m_all_documents_393,train\enron5\fischer-m_all_documents_393,train,mark.walker@enron.com,4,3,Mark | Mark Fisher | Mark Walker
+fossum-d_all_documents_1317,train\enron5\fossum-d_all_documents_1317,train,drew.fossum@enron.com,23,15,Bob Chandler | DF | Drew Fossum | Elaine Concklin | Gary | Gary Zahn | Keith | Keith Petersen | Lee | Lee Huber | Mary Kay Miller | Ray | Ray Smith | Rod Hayslett | Vincent Strohmeyer
+fossum-d_all_documents_334,train\enron5\fossum-d_all_documents_334,train,drew.fossum@enron.com,17,12,Augie | Dari | Dari Dornan | DF | Drew | Drew Fossum | Kent | Kent Miller | Paul | Paul Cherry | Ted | Ted Chavez
+fossum-d_all_documents_625,train\enron5\fossum-d_all_documents_625,train,lorna.brennan@enron.com,12,7,Adam Savett | Barbara A. Podell | Renee C. Nixon | RYAN | Ryan | Savett Frutkin Podell | SAVETT FRUTKIN PODELL
+giron-d_all_documents_102,train\enron5\giron-d_all_documents_102,train,darron.giron@enron.com,3,3,Bishop Keller | Carlos Giron | Darron C Giron
+giron-d_all_documents_193,train\enron5\giron-d_all_documents_193,train,darron.giron@enron.com,8,7,Cassi Wallace | Darron C Giron | Jeffrey C Gossett | Jennifer | Jennifer Nguyen | Kam Keiser | Phillip M Love
+giron-d_all_documents_430,train\enron5\giron-d_all_documents_430,train,darron.giron@enron.com,10,10,Darron C Giron | David Baumbach | DG | Errol McLaughlin | Greg Couch | Irena | Irena D Hogan | John Valdes | Kam Keiser | William Kelly
+griffith-j_all_documents_504,train\enron5\griffith-j_all_documents_504,train,soblander@carrfut.com,1,1,Carr Futures
+grigsby-m_all_documents_210,train\enron5\grigsby-m_all_documents_210,train,mike.grigsby@enron.com,2,2,Anne | Mike
+guzman-m_all_documents_1163,train\enron5\guzman-m_all_documents_1163,train,bert.meyers@enron.com,3,2,Bert | Doug
+haedicke-m_all_documents_4367,train\enron5\haedicke-m_all_documents_4367,train,mark.haedicke@enron.com,12,7,Austin Ventures | Chris Pacitti | Mark | Mark E Haedicke | Sandra Jimenez | Stephen R Horn | Steve Horn
+hayslett-r_all_documents_449,train\enron5\hayslett-r_all_documents_449,train,enron.announcements@enron.com,18,18,Amy Binney | Beverly Stephens | Carolyn Gilley | Carolyn Vigne | Cherri Carbonara = | Cynthia Duhon | Diane Eckels | Eric Merten | George Weber | Jane Ellen Weaver | Kathy Cook | Larry Dallman | Laurie Koenig | Linda Martin | Norma Hasenjager | Paulette Obrecht | Peggy McCurley | Sharon B. Sellers
+hendrickson-s_all_documents_93,train\enron5\hendrickson-s_all_documents_93,train,scharnberger-armin@t-online.de,2,1,Scott
+hodge-j_all_documents_15,train\enron5\hodge-j_all_documents_15,train,enron.announcements@enron.com,2,2,Cindy Olson | Steve Kean
+jones-t_all_documents_1822,train\enron5\jones-t_all_documents_1822,train,tomas.valnek@enron.com,21,12,Bryan Seyfried | Debbie R Brackett | Denis O'Connell | Edmund Cooper | Mark Taylor | Paul Simons | Rod Nelson | Tana Jones | Tomas | Tomas Valnek | TV | William S Bradford
+kean-s_all_documents_9447,train\enron5\kean-s_all_documents_9447,train,alan.comnes@enron.com,34,22,Alan Comnes | Andrew DeClercq | Bush | Curt Hebert | Curtis Hebert | Davis | Gray Davis | Hebert | Joseph J. Disa | Linda Breathitt | Massey | Patrick Connole | Ray Allen | Rebecca Smith | Ronald Shemenski | Spencer Abraham | Tim Hutchinson | Tom Doggett | Tracy McGrady | Valerie Carroll | VINCENT K. WILLIS | William Massey
+king-j_all_documents_11,train\enron5\king-j_all_documents_11,train,outlook.team@enron.com,0,0,
+lavorato-j_all_documents_296,train\enron5\lavorato-j_all_documents_296,train,kimberly.hillis@enron.com,4,2,John | Kim Hillis
+lewis-a_all_documents_121,train\enron5\lewis-a_all_documents_121,train,csleuth@infonautics.com,1,1,Paul Barr
+lewis-a_all_documents_189,train\enron5\lewis-a_all_documents_189,train,media67@opt14.edirectnetwork.net,0,0,
+lewis-a_all_documents_99,train\enron5\lewis-a_all_documents_99,train,cheryl.johnson@enron.com,1,1,Cheryl
+lokay-m_all_documents_338,train\enron5\lokay-m_all_documents_338,train,kevin.hyatt@enron.com,0,0,
+love-p_all_documents_414,train\enron5\love-p_all_documents_414,train,phillip.love@enron.com,1,1,PL
+maggi-m_all_documents_11,train\enron5\maggi-m_all_documents_11,train,mike.maggi@enron.com,3,3,matty | rico | sarah
+maggi-m_all_documents_45,train\enron5\maggi-m_all_documents_45,train,caroline.abramo@enron.com,22,20,Andreas Hommert | Andrew Suckling | Brian Copp | Caroline Abramo | Danny Masters | George Zivic | Jason Hotra | Jason Mraz | Jean Sekse | Jennifer Fraser | John | Mike | Paul Touradji | Per | Rob Ellis | Robyn | Russ Dyk | Steve Schmitz | Tudor Investments | William Callanan
+mann-k_all_documents_486,train\enron5\mann-k_all_documents_486,train,kay.mann@enron.com,9,8,Katie | Kay | Kay Mann | Lisa | Lisa Clarke | Michael | Mikey | Paige
+mann-k_all_documents_5362,train\enron5\mann-k_all_documents_5362,train,carlos.sole@enron.com,22,12,Carlos | Carlos Sole | Doug | Doug Sewell | Herman Manis | Mike E Kelly | Mike Kelly | Ron | Sewell | Sole | Tapscott | Terri Clynes
+mckay-b_all_documents_8,train\enron5\mckay-b_all_documents_8,train,brad.mckay@enron.com,1,1,Brad
+mclaughlin-e_all_documents_958,train\enron5\mclaughlin-e_all_documents_958,train,errol.mclaughlin@enron.com,5,4,Errol | Errol McLaughlin | Shannon | Shannon McPearson
+nemec-g_all_documents_1787,train\enron5\nemec-g_all_documents_1787,train,mark.whitt@enron.com,3,3,Bob Mustard | Mark | Tom Brown
+nemec-g_all_documents_2816,train\enron5\nemec-g_all_documents_2816,train,eric.gillaspie@enron.com,2,2,Eric Gillaspie | Jim
+nemec-g_all_documents_3981,train\enron5\nemec-g_all_documents_3981,train,dave.fuller@enron.com,1,1,Gerald
+pereira-s_all_documents_16,train\enron5\pereira-s_all_documents_16,train,janisp@dialdata.com.br,2,2,Jan | Susan
+ring-a_all_documents_109,train\enron5\ring-a_all_documents_109,train,andrea.ring@enron.com,10,6,Andrea Ring | David Kaiser | Heidi Jo Warnick | Jared Kaiser | John Craig Taylor | Susan W Pereira
+ring-a_all_documents_80,train\enron5\ring-a_all_documents_80,train,andrea.ring@enron.com,6,5,Andrea Ring | David Jones | Gil Muhl | Sanjeev Khanna | Scott Neal
+ring-a_all_documents_84,train\enron5\ring-a_all_documents_84,train,andrea.ring@enron.com,8,3,Andrea Ring | Claus | Santa
+rodrique-r_all_documents_258,train\enron5\rodrique-r_all_documents_258,train,robin.rodrigue@enron.com,0,0,
+rodrique-r_all_documents_38,train\enron5\rodrique-r_all_documents_38,train,vern.vallejo@enron.com,1,1,Vern Vallejo
+rogers-b_all_documents_333,train\enron5\rogers-b_all_documents_333,train,jkmurphy@jonesday.com,15,14,Andrew Kelemen | Bill Williams | Clark | Don Hammond | Ed | Frank W Vickers | Gleason | Heckler | James | Jim Gilbert | LV Cogen | Mark Mullen | Ron | Ron Coker
+ruscitti-k_all_documents_304,train\enron5\ruscitti-k_all_documents_304,train,kevin.ruscitti@enron.com,3,2,Kevin Ruscitti | Martin Cuilla
+ruscitti-k_all_documents_415,train\enron5\ruscitti-k_all_documents_415,train,jjcardiff@duke-energy.com,2,1,Jeff
+ruscitti-k_all_documents_53,train\enron5\ruscitti-k_all_documents_53,train,keith.irani@cgc.enbridge.com,1,1,Keith Irani
+sager-e_all_documents_56,train\enron5\sager-e_all_documents_56,train,nicole.la@enron.com,3,3,Bobette Riner | Craig Allsopp | Nicole La
+saibi-e_all_documents_2,train\enron5\saibi-e_all_documents_2,train,esaibi@hotmail.com,0,0,
+sanders-r_all_documents_1020,train\enron5\sanders-r_all_documents_1020,train,richard.sanders@enron.com,5,4,David W Delainey | Mark E Haedicke | Richard B Sanders | Twanda Sweet
+sanders-r_all_documents_1204,train\enron5\sanders-r_all_documents_1204,train,richard.sanders@enron.com,22,17,Alicia Jones | Andrew Edison | Brant Reves | Bryce Baxter | Debbie R Brackett | Harry Fleming | Jill | Jill Kio | Lisa Mellencamp | Mechelle Stevens | Molly Harris | Richard B Sanders | Tanya Rohauer | Tom Moran | Veronica | Veronica Espinoza | William S Bradford
+sanders-r_all_documents_1599,train\enron5\sanders-r_all_documents_1599,train,richard.sanders@enron.com,0,0,
+sanders-r_all_documents_2423,train\enron5\sanders-r_all_documents_2423,train,matthias.lee@enron.com,4,4,Britt | John Chismar | Matt | Mike R.
+sanders-r_all_documents_644,train\enron5\sanders-r_all_documents_644,train,thoulihan@mdbe.com,5,5,BROWN | DOYLE | ENERSEN | LLP | McCUTCHEN
+schwieger-j_all_documents_52,train\enron5\schwieger-j_all_documents_52,train,mark.thibodeaux@enron.com,6,5,Barbara Gray | Long | Mark Thibodeaux | Russell | Tom Shelton
+scott-s_all_documents_915,train\enron5\scott-s_all_documents_915,train,marcel@turn.org,1,1,Marcel Hawiger
+shankman-j_all_documents_232,train\enron5\shankman-j_all_documents_232,train,douglas.friedman@enron.com,3,3,Doug | Jeff | John
+shankman-j_all_documents_549,train\enron5\shankman-j_all_documents_549,train,jeffrey.shankman@enron.com,8,4,Ben | Ben Macklowe | Hillary | Jeff
+shively-h_all_documents_123,train\enron5\shively-h_all_documents_123,train,hunter.shively@enron.com,8,8,Charlene Jackson | Dan Leff | Dave Delainey | Hunter S Shively | Jeff Shankman | John Lavorato | Kevin Hannon | Rick Causey
+shively-h_all_documents_281,train\enron5\shively-h_all_documents_281,train,hunter.shively@enron.com,4,4,Dave | Dave Forster | Hunter | Laura
+skilling-j_all_documents_1186,train\enron5\skilling-j_all_documents_1186,train,fredinvt@juno.com,3,3,Chuck ________________________________________ | Fred | Mike Arends
+stepenovitch-j_all_documents_197,train\enron5\stepenovitch-j_all_documents_197,train,trainingorders@vertical.net,2,2,JOSEPH STEPENOVITCH | Patricia Lopez
+taylor-m_all_documents_7359,train\enron5\taylor-m_all_documents_7359,train,mark.taylor@enron.com,0,0,
+townsend-j_all_documents_14,train\enron5\townsend-j_all_documents_14,train,marlene.hilliard@enron.com,13,10,Chris Germany | Dan Junek | Daren J Farmer | Elsa Villarreal | Judy Townsend | Kevin Heal | Kimberly S Olinger | Marlene Hilliard | Randall L Gay | Scott Goodell
+tycholiz-b_all_documents_8,train\enron5\tycholiz-b_all_documents_8,train,barry.tycholiz@enron.com,3,3,BT | Fran | Kerri Rigsby
+whalley-g_all_documents_332,train\enron5\whalley-g_all_documents_332,train,chris.abel@enron.com,1,1,Chris Abel
+white-s_all_documents_133,train\enron5\white-s_all_documents_133,train,jennifer.h.staton@us.andersen.com,3,3,Jennifer | Jennifer Stevenson | Stacey
+wolfe-j_all_documents_49,train\enron5\wolfe-j_all_documents_49,train,kori.loibl@enron.com,0,0,
+allen-p_all_documents_171,train\enron6\allen-p_all_documents_171,train,phillip.allen@enron.com,2,2,Lucy | Phillip
+allen-p_all_documents_90,train\enron6\allen-p_all_documents_90,train,phillip.allen@enron.com,8,5,Bob | Patti | Patti Sullivan | Phillip | Randy Gay
+arnold-j_all_documents_687,train\enron6\arnold-j_all_documents_687,train,bob.lee@enron.com,1,1,Bob Lee
+arora-h_all_documents_64,train\enron6\arora-h_all_documents_64,train,barbara.lewis@enron.com,1,1,Zach
+bailey-s_all_documents_12,train\enron6\bailey-s_all_documents_12,train,outlook.team@enron.com,0,0,
+bass-e_all_documents_990,train\enron6\bass-e_all_documents_990,train,eric.bass@enron.com,5,4,Dad | Eric | Katy Mills | Shanna
+baughman-e_all_documents_131,train\enron6\baughman-e_all_documents_131,train,bobette.riner@ipgdirect.com,3,3,Bobette | Bobette Riner | Jack Daniels
+benson-r_all_documents_13,train\enron6\benson-r_all_documents_13,train,enron.announcements@enron.com,0,0,
+brawner-s_all_documents_117,train\enron6\brawner-s_all_documents_117,train,sandra.brawner@enron.com,2,2,Ben | Greg
+carson-m_all_documents_150,train\enron6\carson-m_all_documents_150,train,mike.carson@enron.com,4,4,Heather Hill | Jan Klinger | Mike Carson | Nanette Ramsey
+cash-m_all_documents_791,train\enron6\cash-m_all_documents_791,train,michelle.cash@enron.com,4,3,Mary | Michelle | Pat
+cuilla-m_all_documents_127,train\enron6\cuilla-m_all_documents_127,train,william.kasemervisz@enron.com,7,7,Curtis - Jacquez Green | Drew Bledsoe Mike Anderson | Jake Reed | Jerry Rice | Tim Richardson Robert Chancey | Tony Banks | Wesley Walls
+davis-d_all_documents_348,train\enron6\davis-d_all_documents_348,train,sharon.tanner@enron.com,1,1,Sharon Tanner
+davis-d_all_documents_419,train\enron6\davis-d_all_documents_419,train,dana.davis@enron.com,0,0,
+dorland-c_all_documents_43,train\enron6\dorland-c_all_documents_43,train,chris.dorland@enron.com,0,0,
+ermis-f_all_documents_293,train\enron6\ermis-f_all_documents_293,train,hal@tradedays.org,1,1,Jodi Barraclough
+fischer-m_all_documents_283,train\enron6\fischer-m_all_documents_283,train,garth.ripton@enron.com,3,3,Garth | Kevin | Mark
+fossum-d_all_documents_1110,train\enron6\fossum-d_all_documents_1110,train,drew.fossum@enron.com,43,18,Arnold L Eisenstein | Bill | Bill Gang | Bill Votaw | Christopher F Calger | Dennis Langley | Drew Fossum | Jerry D Martin | John | John M Rose | John's | Kevin Hyatt | Lorraine Lindberg | Stephen Thome | Steve | Steve Thome | Steven Harris | William Gang
+fossum-d_all_documents_1656,train\enron6\fossum-d_all_documents_1656,train,drew.fossum@enron.com,54,52,"Ackley, Earlene | Alder, Amelia | Armstrong, Julie | Barnes, Caroline | Borcyk, David | Brasher, Barney | Brassfield, Morris | Chandler, Bob | Cherry, Paul | Clements, David | Cobb, John | Concklin, Elaine | Cordes, Bill | Corman, Shelley | Drew Fossum | Fancler, Dan | Fenstad, Larry | Geaccone, Tracy | Gibbs, Dana | Gilbert, Steve | Hayslett, Rod | Hogan, Janice | Horton, Stanley | Hotte, Steve | Houser, Rita | Jesse, John | Jolibois, Anne | Keiser, John | Kinningham, Laura | Lev, Jennifer | Lisa Sutton | Lowry, Phil | Mann, Ruth | McCarty, Danny | Meers, Thomas | Meyer, Rockford | Michael P Moran | Moran, Michael P. | O'Neill, Virginia | Perry, Carolyn | Peters, Jerry | Prentice, James | Saunders, James | Sellers, Emily | Smith, Gary | Stan | Stark, Cindy | Stern, Ellis | Sutton, Lisa | White, Julia | Wiederholt, Patricia | Winters, Ricki"
+fossum-d_all_documents_348,train\enron6\fossum-d_all_documents_348,train,drew.fossum@enron.com,33,18,Donna | Donna Fulton | Drew | Drew Fossum | Dynegy | Dynegy's | Frank K | Glen Hass | Golub | Jay | Jay Golub | Lorraine Lindberg | Mary Darveaux | Mary Kay Miller | Steve S. | Steven Harris | Susan | Susan Scott
+gay-r_all_documents_143,train\enron6\gay-r_all_documents_143,train,rob.gay@enron.com,0,0,
+gilbertsmith-d_all_documents_127,train\enron6\gilbertsmith-d_all_documents_127,train,paul.radous@enron.com,34,32,"Allen, Thresa | Anoush Farhangi | Bradford, William S. | Curry, Mike | David | David Portz | David, Michelle | Day, Smith | Doug Gilbert-Smith | Drew Tingleaf | Gilbert-Smith, Doug | Jeffrey Miller | Kevin M Presto | Lloyd | May, Tom | Michelle | Michelle Parks | Mike Curry | Miller, Jeffrey | Parks, Michelle | Paul | Paul Radous | Portz, David | Presto, Kevin | Radous, Paul | Sager, Elizabeth | Smith L Day | Thresa A Allen | Tingleaf, Drew | Tom May | Will, Lloyd | William S Bradford"
+grigsby-m_all_documents_120,train\enron6\grigsby-m_all_documents_120,train,alerts-breakingnews@yahoo-inc.com,1,1,Tony Blair
+grigsby-m_all_documents_305,train\enron6\grigsby-m_all_documents_305,train,mike.grigsby@enron.com,1,1,Mike Grigsby
+guzman-m_all_documents_1317,train\enron6\guzman-m_all_documents_1317,train,mark.guzman@enron.com,0,0,
+guzman-m_all_documents_443,train\enron6\guzman-m_all_documents_443,train,pete.davis@enron.com,0,0,
+haedicke-m_all_documents_1277,train\enron6\haedicke-m_all_documents_1277,train,mark.haedicke@enron.com,8,7,Jeffrey Skilling | Liz | Liz O'Sullivan | Mark | Mark E Haedicke | Mark Haedicke | Mary Cunningham
+haedicke-m_all_documents_5230,train\enron6\haedicke-m_all_documents_5230,train,perfmgmt@enron.com,1,1,MARK HAEDICKE
+haedicke-m_all_documents_811,train\enron6\haedicke-m_all_documents_811,train,mark.haedicke@enron.com,18,17,Alan Aronowitz | Barbara N Gray | Daniel R Rogers | Elizabeth Sager | Janette | Jeffrey T Hodge | Julia Murray | Lance Schuler | Mark | Mark E Haedicke | Mark Frevert | Mark Haedicke | Mark Taylor | Peter Keohane | Richard B Sanders | Sheila Tweed | Travis McCullough
+heard-m_all_documents_1,train\enron6\heard-m_all_documents_1,train,marie.heard@enron.com,3,3,Marie Heard | Sara | Sara Shackleton
+hendrickson-s_all_documents_17,train\enron6\hendrickson-s_all_documents_17,train,im-urlaub@t-online.de,9,4,Armin | Connie | Lolo | Melissa
+hernandez-j_all_documents_478,train\enron6\hernandez-j_all_documents_478,train,maria.sandoval@enron.com,10,5,Brenda Flores-Cuellar | Janell Avery | Maria Sandoval | Melissa Jones | Michelle Vitrella
+hernandez-j_all_documents_632,train\enron6\hernandez-j_all_documents_632,train,judy.hernandez@enron.com,17,14,"andrea tate | Dereca Sample | Dora Thurmond | Groves, Shannon | Henry, Kelly-Ann | Jackson, Twilla | Jones, Boyd | Judy Hernandez | Land, Mary | Sample, Dereca | Smith, Kathie | Smith, Leronda | WILLIAMS, GEYA | WILLIAMS, TERRI"
+hodge-j_all_documents_244,train\enron6\hodge-j_all_documents_244,train,jeffrey.hodge@enron.com,19,8,Confidentiality Release Paul | Jeff | Jeffrey | pak | pak Jeffrey | Paul | Tony | Tony Altmann
+horton-s_all_documents_509,train\enron6\horton-s_all_documents_509,train,ets.announcement@enron.com,0,0,
+hyvl-d_all_documents_861,train\enron6\hyvl-d_all_documents_861,train,debra.perlingiere@enron.com,1,1,Debra Perlingiere
+kaminski-v_all_documents_10574,train\enron6\kaminski-v_all_documents_10574,train,enron.announcement@enron.com,0,0,
+kean-s_all_documents_2473,train\enron6\kean-s_all_documents_2473,train,jeff.brown@enron.com,1,1,Jeff
+kean-s_all_documents_6817,train\enron6\kean-s_all_documents_6817,train,steven.kean@enron.com,4,3,Maureen McVicker | Sarah Novosel | Steven J Kean
+keavey-p_all_documents_333,train\enron6\keavey-p_all_documents_333,train,deals@bestfares.com,0,0,
+kuykendall-t_all_documents_122,train\enron6\kuykendall-t_all_documents_122,train,tori.kuykendall@enron.com,5,3,Ina Rangel | Phillip | Tori Kuykendall
+lavorato-j_all_documents_632,train\enron6\lavorato-j_all_documents_632,train,john.lavorato@enron.com,1,1,Wolfe
+linder-e_all_documents_18,train\enron6\linder-e_all_documents_18,train,amy.fitzpatrick@enron.com,6,6,Amy FitzPatrick | Bill Williams III | Cara Semperger | Chris Stokley | Elliot Mainzer | Tim Heizenrader
+love-p_all_documents_139,train\enron6\love-p_all_documents_139,train,phillip.love@enron.com,3,2,Bryan Hull | Phillip M Love
+mann-k_all_documents_5427,train\enron6\mann-k_all_documents_5427,train,paulette.obrecht@enron.com,1,1,Sara Davidson
+martin-t_all_documents_95,train\enron6\martin-t_all_documents_95,train,adam.johnson@enron.com,1,1,Adam Johnson
+mckay-b_all_documents_78,train\enron6\mckay-b_all_documents_78,train,brad.mckay@enron.com,1,1,brad
+mclaughlin-e_all_documents_154,train\enron6\mclaughlin-e_all_documents_154,train,orders@amazon.com,1,1,Errol McLaughlin
+mclaughlin-e_all_documents_704,train\enron6\mclaughlin-e_all_documents_704,train,errol.mclaughlin@enron.com,5,4,Errol | Errol McLaughlin | Janie | Janie Aguayo
+mims-thurston-p_all_documents_18,train\enron6\mims-thurston-p_all_documents_18,train,patrice.mims@enron.com,6,5,Bruce Kohrs | Dan | Grant | Jim Pearson | Patrice L Mims
+neal-s_all_documents_104,train\enron6\neal-s_all_documents_104,train,john.lavorato@enron.com,2,2,Karen Buckley | Lavo
+neal-s_all_documents_418,train\enron6\neal-s_all_documents_418,train,scott.neal@enron.com,10,10,Allan Severude | Cindy Cicchetti | Fletcher J Sturm | Hunter S Shively | Kenny Ha | Phillip K Allen | Richard Burchfield | Russ Severson | Scott Mills | Scott Neal
+perlingiere-d_all_documents_200,train\enron6\perlingiere-d_all_documents_200,train,debra.perlingiere@enron.com,1,1,Debra Perlingiere
+presto-k_all_documents_34,train\enron6\presto-k_all_documents_34,train,kim.melodick@enron.com,13,12,"Buckley, Karen | Charles | Johnny | Juan Hernandez | Karen | Karen Buckley | Lavorato, John | Lloyd | Melodick, Kim | Presto, Kevin | Rika | Tom May"
+quenet-j_all_documents_70,train\enron6\quenet-j_all_documents_70,train,joe.quenet@enron.com,2,2,Bobette Riner | Joe
+rogers-b_all_documents_1014,train\enron6\rogers-b_all_documents_1014,train,benjamin.rogers@enron.com,1,1,Ben
+ruscitti-k_all_documents_404,train\enron6\ruscitti-k_all_documents_404,train,dax.sanders@enron.com,17,14,"Ben Tobor | David Kinder | Dax A. Sanders | Dax Sanders | Jack Ingram | Joseph A. Manero | Kara | Kara Howes | Kara Kinder Howes | Katherine Howes | Kay Bailey Hutchison | Kevin | Kinder, David D. | Mike"
+sanders-r_all_documents_400,train\enron6\sanders-r_all_documents_400,train,richard.sanders@enron.com,13,6,Andrew Kelemen | Andy | Michael S Galvan | Mike | Richard | Richard B Sanders
+schwieger-j_all_documents_24,train\enron6\schwieger-j_all_documents_24,train,jim.schwieger@enron.com,5,5,Dan Hyvl | Jim | Jim Schwieger | Ted Ryan | Troy
+schwieger-j_all_documents_44,train\enron6\schwieger-j_all_documents_44,train,mark.woita@fhlbtopeka.com,1,1,Mark
+shackleton-s_all_documents_1501,train\enron6\shackleton-s_all_documents_1501,train,sara.shackleton@enron.com,13,11,Donna | Donna Lowry | Frank Moy | Gil | Gil Melman | John Greene | Mike Deville | Sara Shackleton | Sheila | Sheila Glover | Terri Harlan
+smith-m_all_documents_178,train\enron6\smith-m_all_documents_178,train,chris.gaskill@enron.com,7,6,Chris Gaskill | Phillip | Phillip K Allen | Tim | Tim Belden | TIM HEIZENRADER
+smith-m_all_documents_183,train\enron6\smith-m_all_documents_183,train,matt.smith@enron.com,2,2,Jess | mat
+smith-m_all_documents_50,train\enron6\smith-m_all_documents_50,train,matt.smith@enron.com,1,1,Mat
+south-s_all_documents_49,train\enron6\south-s_all_documents_49,train,enron.announcements@enron.com,26,26,Amy Quirsfeld | Angel Tamariz | Annette Thompson | Barbara Taylor | Camille Gerard | Carter | Cassandra Dutton | Christine Sullivan | Dave | Dave Allan | David Allan | Donlevy-Lee | Grant Patterson | James Reyes | Janelle Russell | Jennifer Watson | Jesse Bryson | Judy Zhang | Kelly | Magdalena Cruz | Marvin | Sasha Divelbiss | Sherri Katho | Steven Batchelder | Sylvia Carter | William Abler
+stepenovitch-j_all_documents_187,train\enron6\stepenovitch-j_all_documents_187,train,teresa.mandola@enron.com,13,13,"Alatorre, Carlos | Carter, Carl | Diamond, Daniel | Forster, David | Jafry, Rahil | Mandola, Teresa | Matt Schatzman | Pacheco, Leonardo | Puthigai, Savita | Rostant, Justin | Samuels, Dave | Shults, Bob | Zipper, Andy"
+stepenovitch-j_all_documents_202,train\enron6\stepenovitch-j_all_documents_202,train,enron.announcements@enron.com,1,1,Jeff Leath
+storey-g_all_documents_15,train\enron6\storey-g_all_documents_15,train,kevin.heal@enron.com,71,70,Adam White | Alain Lefebvre | Alan Reid | Albert Stortchak | Aleck Dadson | Bill Wible | Bob Fraser | Brent Moen | Brian Howell | Brian Ridley | Brian Troicuk | Brian White | Brian Woods | Cheryl Worthy | Chuck Baumgart | Dan Collins | Debbie Harris | Debbie White | Diane Cameron | Doug Holgate | Frank Basham | Frank Brennan | Frederic Morel | Gilles Favreau | Howard Stephens | Isabelle Quach | Jack Hawks | Janet Holder | Jeremy Slasor | Jim Bartlett | Jim Fisher | John Guerriero | John Lee | John MacPherson | Jon McKay | Ken Hadley | Kevin | Kevin Heal | Kurt McKnight | Lisa McMahon | Lyne Mercier | Marg Seeger | Martin Imbleau | Max Feldman | Mike Lucy | Mike Stedman | Murray Samuel | Nick Schultz | Normand Stevenson | Peter Fournier | peter milne | Phi Dang | Randy Fryer | Richard King | rinde_powell | Rob Hemstock < | Rob Milnthorp | Rob Whitmore | Robert Agnello | Robert Andrews | Robert Rowe | Ron Moore | Ronald Richard | sharon johnson | Shonda Day | Steve Emond | Suzanne Boucher-Chen | Tomasz Lange | Vern Gorr | Wendy Hanrahan
+sturm-f_all_documents_119,train\enron6\sturm-f_all_documents_119,train,fletcher.sturm@enron.com,2,2,Fletch | Sue
+taylor-m_all_documents_4367,train\enron6\taylor-m_all_documents_4367,train,david.mally@enron.com,41,30,Arfan Aziz | Bibi | Bob Campbell | Bryan Seyfried | Chris Dodds | Clifford Chance | Dave Malley | Dave Mally | David G Mally | David Port | Elena | Elena Kapralova | Greg | Greg Whalley | Janine Juggins | Jay Webb | John Sherriff | Justin Boyd | Kevin Sweeney | Louise | Louise Kitchen | Mark Palmer | Mark Taylor | Neil Donkin | Pat Gogerty | Paul | Paul Goddard | Philippe | Ted Murphy | Tiluk Mandadi
+tholt-j_all_documents_110,train\enron6\tholt-j_all_documents_110,train,jane.tholt@enron.com,1,1,Joseph
+tholt-j_all_documents_438,train\enron6\tholt-j_all_documents_438,train,jane.tholt@enron.com,1,1,Fred Lagrasta
+tholt-j_all_documents_91,train\enron6\tholt-j_all_documents_91,train,enerfax1@bellsouth.net,0,0,
+townsend-j_all_documents_9,train\enron6\townsend-j_all_documents_9,train,swestgate@enporion.com,4,2,Judt Townsend | Steve Westgate
+ward-k_all_documents_181,train\enron6\ward-k_all_documents_181,train,wesbeasley@compuserve.com,2,2,Kim | Wes Beasley
+whalley-g_all_documents_231,train\enron6\whalley-g_all_documents_231,train,henry.emery@ubspainewebber.com,0,0,
+white-s_all_documents_13,train\enron6\white-s_all_documents_13,train,shona.wilson@enron.com,1,1,Shona Wilson
+white-s_all_documents_147,train\enron6\white-s_all_documents_147,train,juhani.aalto@enron.com,2,2,Juhani | Stacey
+ybarbo-p_all_documents_5,train\enron6\ybarbo-p_all_documents_5,train,dustin.collins@enron.com,8,7,Chris | Chris Skinner | Dustin Collins | Jane Michalek | Matthew | Rudy Adamiak | Todd
+zipper-a_all_documents_17,train\enron6\zipper-a_all_documents_17,train,travis.mccullough@enron.com,1,1,Travis McCullough
+zipper-a_all_documents_56,train\enron6\zipper-a_all_documents_56,train,lydia.cannon@enron.com,2,2,Gary Hickerson | Judy
+zufferlie-j_all_documents_2,train\enron6\zufferlie-j_all_documents_2,train,kwright@momentumcars.com,2,2,John | Kenneth Wright
