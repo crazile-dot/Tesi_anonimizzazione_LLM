@@ -1,51 +1,104 @@
 
-from pathlib import Path
 import json
 import re
+from pathlib import Path
 
-PROJECT_DIR = Path(__file__).resolve().parent.parent
-CORPUS = PROJECT_DIR / "data" / "processed" / "corpus_test.jsonl"
+PROJECT = Path(__file__).resolve().parent.parent
+DATA = PROJECT / "data" / "processed"
 
-tag_apertura = re.compile(r"<true_name>", re.IGNORECASE)
-tag_chiusura = re.compile(r"</true_name>", re.IGNORECASE)
+M4_FILE = DATA / "openai_results_680_m4_v2.jsonl"
+M5_FILE = DATA / "openai_results_680_m5.jsonl"
 
-totale_aperture = 0
-totale_chiusure = 0
-documenti_sbilanciati = []
-annotazioni_vuote = []
-annotazioni_con_tag_interni = []
+# Casi scelti dall'audit: esempi di residui condivisi,
+# residui solo M4 e residui solo M5.
+CASES = [
+    ("nemec-g_all_documents_2677", "Bracewell"),
+    ("badeer-r_all_documents_39", "Vice Chairman"),
+    ("saibi-e_all_documents_11", "Jean Ryall"),
+    ("davis-d_all_documents_192", "Eve"),
+    ("dasovich-j_all_documents_18375", "Bill"),
+    ("kean-s_all_documents_9103", "Jimmy"),
+    ("hodge-j_all_documents_228",
+     "Janet Dietrich Ed McMichael Scott Neal Phillip Allen"),
+]
 
-with CORPUS.open("r", encoding="utf-8") as f:
-    for linea in f:
-        documento = json.loads(linea)
-        testo = documento["testo_originale"]
-        doc_id = documento["document_id"]
 
-        aperture = len(tag_apertura.findall(testo))
-        chiusure = len(tag_chiusura.findall(testo))
+def load_jsonl(path):
+    with path.open(encoding="utf-8") as f:
+        return {
+            r["document_id"]: r
+            for line in f
+            if line.strip()
+            for r in [json.loads(line)]
+        }
 
-        totale_aperture += aperture
-        totale_chiusure += chiusure
 
-        if aperture != chiusure:
-            documenti_sbilanciati.append(
-                (doc_id, aperture, chiusure)
-            )
+def contexts(text, phrase, window=100):
+    words = re.split(r"\s+", phrase.strip())
+    if not phrase.strip():
+        return [], 0
 
-        for nome in documento["nomi_annotati"]:
-            if not nome.strip():
-                annotazioni_vuote.append(doc_id)
+    pattern = r"(?<!\w)" + r"\s+".join(
+        re.escape(word) for word in words
+    ) + r"(?!\w)"
 
-            if "<true_name>" in nome.lower() or "</true_name>" in nome.lower():
-                annotazioni_con_tag_interni.append((doc_id, nome))
+    matches = list(re.finditer(pattern, text))    
+    result = []
 
-print(f"Tag di apertura: {totale_aperture}")
-print(f"Tag di chiusura: {totale_chiusure}")
-print(f"Documenti con conteggi diversi: {len(documenti_sbilanciati)}")
-print(f"Annotazioni vuote: {len(annotazioni_vuote)}")
-print(f"Annotazioni contenenti tag interni: {len(annotazioni_con_tag_interni)}")
+    for match in matches[:5]:
+        start = max(0, match.start() - window)
+        end = min(len(text), match.end() + window)
+        result.append(
+            text[start:match.start()]
+            + "[["
+            + text[match.start():match.end()]
+            + "]]"
+            + text[match.end():end]
+        )
 
-if documenti_sbilanciati:
-    print("\nEsempi di documenti da controllare:")
-    for elemento in documenti_sbilanciati[:10]:
-        print(elemento)
+    return result, len(matches)
+
+
+def main():
+    m4 = load_jsonl(M4_FILE)
+    m5 = load_jsonl(M5_FILE)
+
+    for doc_id, phrase in CASES:
+        print("\n" + "=" * 80)
+        print(f"DOCUMENTO: {doc_id} | ANNOTAZIONE: {phrase!r}")
+
+        for label, records in [("M4", m4), ("M5", m5)]:
+            record = records.get(doc_id)
+
+            if not record or record.get("status") != "success":
+                print(f"\n{label}: risultato non disponibile")
+                continue
+
+            print(f"\n--- {label} ---")
+
+            print("Entità rilevate corrispondenti:")
+            found = [
+                e for e in record.get("entities_detected", [])
+                if phrase.casefold() in
+                   e.get("original", "").casefold()
+            ]
+
+            for entity in found:
+                print(" ", entity)
+
+            text = record.get("text_anonymized") or ""
+            result = contexts(text, phrase)
+
+            excerpts, total = result
+
+            print(f"Occorrenze nel testo anonimizzato: {total}")
+
+            for excerpt in excerpts:
+                print(" ", repr(excerpt))
+
+            if total == 0:
+                print("Nessuna occorrenza letterale nel testo anonimizzato.")
+
+
+if __name__ == "__main__":
+    main()

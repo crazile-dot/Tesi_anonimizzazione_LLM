@@ -1,0 +1,48 @@
+
+=== M4 ===
+Annotazioni XML valutate: 4866
+Annotazioni senza residui letterali: 4670
+Annotazioni con almeno un residuo: 196
+Occorrenze residue complessive: 457
+Recall di protezione (per annotazione): 95.9721%
+
+Esempi di residui:
+- badeer-r_all_documents_39: 'Vice Chairman' (1 occorrenze)
+- badeer-r_all_documents_39: 'Vice' (3 occorrenze)
+- nemec-g_all_documents_2677: 'Bracewell' (1 occorrenze)
+- nemec-g_all_documents_2677: 'Patterson' (1 occorrenze)
+- skilling-j_all_documents_1403: 'DeWolff Boberg' (4 occorrenze)
+- storey-g_all_documents_52: 'geof' (1 occorrenze)
+- ward-k_all_documents_116: 'Jan' (1 occorrenze)
+- ward-k_all_documents_116: 'Jan' (1 occorrenze)
+- ward-k_all_documents_116: 'Jan' (1 occorrenze)
+- cash-m_all_documents_313: 'Trakya Elektrik' (1 occorrenze)
+- keavey-p_all_documents_408: 'Carr Futures' (3 occorrenze)
+- keavey-p_all_documents_408: 'Carr Futures' (3 occorrenze)
+- keavey-p_all_documents_408: 'Carr Futures' (3 occorrenze)
+- kuykendall-t_all_documents_179: 'Katy' (1 occorrenze)
+- lewis-a_all_documents_91: 'Don' (1 occorrenze)
+
+=== M5 ===
+Annotazioni XML valutate: 4866
+Annotazioni senza residui letterali: 4737
+Annotazioni con almeno un residuo: 129
+Occorrenze residue complessive: 287
+Recall di protezione (per annotazione): 97.3490%
+
+Esempi di residui:
+- davis-d_all_documents_192: 'Eve' (5 occorrenze)
+- davis-d_all_documents_192: 'Eve' (5 occorrenze)
+- davis-d_all_documents_192: 'Eve' (5 occorrenze)
+- davis-d_all_documents_192: 'Eve' (5 occorrenze)
+- davis-d_all_documents_192: 'Eve' (5 occorrenze)
+- dorland-c_all_documents_337: 'Mackenzie' (1 occorrenze)
+- nemec-g_all_documents_2677: 'Bracewell' (1 occorrenze)
+- nemec-g_all_documents_2677: 'Patterson' (1 occorrenze)
+- skilling-j_all_documents_1403: 'DeWolff Boberg' (4 occorrenze)
+- cash-m_all_documents_313: 'Nowa Sarznya' (1 occorrenze)
+- cash-m_all_documents_313: 'Trakya Elektrik' (1 occorrenze)
+- kean-s_all_documents_9103: 'Jimmy' (1 occorrenze)
+- keavey-p_all_documents_408: 'Carr Futures' (3 occorrenze)
+- keavey-p_all_documents_408: 'Carr Futures' (3 occorrenze)
+- keavey-p_all_documents_408: 'Carr Futures' (3 occorrenze)

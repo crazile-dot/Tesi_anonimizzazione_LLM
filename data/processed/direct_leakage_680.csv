@@ -1,0 +1,6 @@
+﻿metodo,documenti_valutati,documenti_senza_risultato,occorrenze_controllate,occorrenze_residue,direct_leakage_rate_percent,documenti_con_leakage,document_leakage_rate_percent
+M1 - Redaction,680,0,4866,0,0.0,0,0.0
+M2 - Pseudonimizzazione,680,0,4866,0,0.0,0,0.0
+M3 - HMAC,680,0,4866,0,0.0,0,0.0
+M4 - LLM substitution,679,1,4866,192,3.95,66,9.72
+M5 - LLM context,679,1,4866,128,2.63,52,7.66

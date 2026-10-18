@@ -2,71 +2,38 @@
 import json
 from pathlib import Path
 
+doc_id = "davis-d_all_documents_440"
 
-# =========================================================
-# CONFIGURAZIONE
-# =========================================================
+files = [
+    Path("data/processed/openai_results_680_m4_v2.jsonl"),
+    Path("data/processed/openai_results_680_m5.jsonl"),
+]
 
-PROJECT_ROOT = Path(__file__).resolve().parent.parent
+for file_path in files:
+    print("\n" + "=" * 80)
+    print(f"FILE: {file_path}")
+    print("=" * 80)
 
-INPUT_FILE = (
-    PROJECT_ROOT
-    / "data"
-    / "processed"
-    / "test_llm_one.json"
-)
+    if not file_path.exists():
+        print("FILE NON TROVATO")
+        continue
 
+    found = False
 
-# =========================================================
-# LETTURA RISULTATO
-# =========================================================
+    with file_path.open("r", encoding="utf-8") as f:
+        for line in f:
+            record = json.loads(line)
 
-with open(INPUT_FILE, "r", encoding="utf-8") as f:
-    result = json.load(f)
+            # Cerca l'identificativo del documento in tutti i campi,
+            # perché potrebbe non essere memorizzato in document_id.
+            if doc_id in json.dumps(record, ensure_ascii=False):
+                found = True
+                print(json.dumps(
+                    record,
+                    ensure_ascii=False,
+                    indent=2
+                )[:15000])
+                break
 
-
-ground_truth = result["ground_truth"]
-entities_detected = result["entities_detected"]
-
-
-# =========================================================
-# GROUND TRUTH
-# =========================================================
-
-print("=" * 60)
-print("GROUND TRUTH")
-print("=" * 60)
-
-print(f"Numero entità: {len(ground_truth)}")
-print()
-
-for i, entity in enumerate(ground_truth, start=1):
-
-    print(
-        f"{i}. "
-        f"type={entity['type']} | "
-        f"text='{entity['text']}' | "
-        f"start={entity['start']} | "
-        f"end={entity['end']}"
-    )
-
-
-# =========================================================
-# ENTITÀ RILEVATE DA GEMINI
-# =========================================================
-
-print()
-print("=" * 60)
-print("ENTITÀ RILEVATE DA GEMINI")
-print("=" * 60)
-
-print(f"Numero entità: {len(entities_detected)}")
-print()
-
-for i, entity in enumerate(entities_detected, start=1):
-
-    print(
-        f"{i}. "
-        f"original='{entity['original']}' | "
-        f"replacement='{entity['replacement']}'"
-    )
+    if not found:
+        print(f"Documento {doc_id} non trovato.")
