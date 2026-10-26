@@ -18,7 +18,7 @@ PROFILI = PROCESSED_DIR / "profili_testuali_ampliati.csv"
 CANDIDATI = PROCESSED_DIR / "candidati_attacco.csv"
 MANIFEST = PROCESSED_DIR / "email_manifest.csv"
 
-RISULTATI_M5 = PROCESSED_DIR / "openai_results_680_m5.jsonl"
+RISULTATI_M5 = PROCESSED_DIR / "openai_results_680_m5_v2.jsonl"
 
 
 CONDIZIONI = {
@@ -391,7 +391,7 @@ def leggi_risultati_esistenti(percorso):
 
 
 def valuta_m5():
-    output = PROCESSED_DIR / "ranking_llm_ampliato_m5.csv"
+    output = PROCESSED_DIR / "ranking_llm_ampliato_m5_v2.csv"
 
     risultati = leggi_risultati_esistenti(output)
 

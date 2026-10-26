@@ -92,7 +92,6 @@ client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
 # ============================================================
 
 EMAIL_RE = re.compile(
-    r"(?i)\b[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}\b"
 )
 
 MESSAGE_ID_RE = re.compile(

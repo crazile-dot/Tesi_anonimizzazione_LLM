@@ -1,14 +1,12 @@
 
 """
-5.1_calcola_direct_leakage_680.py
-
 Valuta il direct leakage su M1-M5.
 Conta le occorrenze annotate residue e i documenti
 che contengono almeno un identificatore annotato residuo.
 """
 
 from pathlib import Path
-from collections import Counter
+from collections import Counter, defaultdict
 import csv
 import json
 import re
@@ -183,6 +181,176 @@ def valuta_metodo(documenti, testi_anonimizzati):
     }
 
 
+OUTPUT_ENTITY_CSV = (
+    PROJECT_DIR
+    / "data"
+    / "processed"
+    / "direct_leakage_per_entity_680_v2.csv"
+)
+
+
+def normalizza_entita(nome):
+    """Uniforma maiuscole/minuscole e spazi per aggregare le varianti."""
+    return re.sub(r"\s+", " ", nome.strip()).casefold()
+
+
+
+def esporta_direct_leakage_per_entita(
+    documenti,
+    testi_anonimizzati_per_metodo,
+    output_csv=OUTPUT_ENTITY_CSV,
+):
+    """
+    Produce una riga per ogni metodo e forma nominale annotata.
+
+    Le varianti che differiscono soltanto per maiuscole/minuscole
+    o spazi vengono aggregate. Le annotazioni XML non vengono divise.
+    """
+
+    aggregati = defaultdict(lambda: {
+        "nome": "",
+        "menzioni_originali": 0,
+        "menzioni_residue": 0,
+        "documenti_con_entita": 0,
+        "documenti_con_leakage": 0,
+    })
+
+    for metodo, testi_anonimizzati in testi_anonimizzati_per_metodo.items():
+        for doc in documenti:
+            document_id = doc["document_id"]
+
+            # Esclude i documenti senza risultato per il metodo corrente.
+            if document_id not in testi_anonimizzati:
+                continue
+
+            testo_anonimizzato = testi_anonimizzati[document_id]
+            menzioni = doc["menzioni"]
+
+            # Raggruppa le varianti equivalenti all'interno del documento.
+            menzioni_per_entita = defaultdict(Counter)
+
+            for nome in menzioni:
+                nome_normalizzato = normalizza_entita(nome)
+
+                if nome_normalizzato:
+                    menzioni_per_entita[nome_normalizzato][nome] += 1
+
+            for chiave_entita, varianti in menzioni_per_entita.items():
+                # La chiave comprende metodo ed entità:
+                # i risultati dei diversi metodi restano separati.
+                chiave_aggregato = (metodo, chiave_entita)
+                record = aggregati[chiave_aggregato]
+
+                nome_rappresentativo = next(iter(varianti))
+                occorrenze_originali = sum(varianti.values())
+
+                if not record["nome"]:
+                    record["nome"] = nome_rappresentativo
+
+                # Costruisce un'unica regex con tutte le varianti,
+                # ordinate dalla più lunga alla più corta.
+                # Gli spazi multipli vengono trattati come equivalenti.
+                varianti_ordinate = sorted(
+                    varianti.keys(),
+                    key=len,
+                    reverse=True,
+                )
+
+                alternative = []
+
+                for variante in varianti_ordinate:
+                    parti = re.split(r"\s+", variante.strip())
+                    alternativa = r"\s+".join(
+                        re.escape(parte) for parte in parti
+                    )
+                    alternative.append(alternativa)
+
+                pattern = re.compile(
+                    r"(?<!\w)(?:"
+                    + "|".join(alternative)
+                    + r")(?!\w)",
+                    re.IGNORECASE,
+                )
+
+                # Conta le corrispondenze senza contare due volte
+                # la stessa posizione per varianti sovrapposte.
+                frequenza_residua = sum(
+                    1 for _ in pattern.finditer(testo_anonimizzato)
+                )
+
+                # Non attribuisce più residui di quanti siano annotati.
+                residue = min(
+                    occorrenze_originali,
+                    frequenza_residua,
+                )
+
+                record["menzioni_originali"] += occorrenze_originali
+                record["menzioni_residue"] += residue
+                record["documenti_con_entita"] += 1
+
+                if residue > 0:
+                    record["documenti_con_leakage"] += 1
+
+    colonne = [
+        "metodo",
+        "entita_annotata",
+        "menzioni_originali",
+        "menzioni_residue",
+        "direct_leakage_rate_percent",
+        "documenti_con_entita",
+        "documenti_con_leakage",
+        "document_leakage_rate_percent",
+    ]
+
+    righe = []
+
+    for (metodo, _), record in aggregati.items():
+        originali = record["menzioni_originali"]
+        residue = record["menzioni_residue"]
+        documenti_entita = record["documenti_con_entita"]
+        documenti_leakage = record["documenti_con_leakage"]
+
+        righe.append({
+            "metodo": metodo,
+            "entita_annotata": record["nome"],
+            "menzioni_originali": originali,
+            "menzioni_residue": residue,
+            "direct_leakage_rate_percent": (
+                round(100 * residue / originali, 4)
+                if originali else 0.0
+            ),
+            "documenti_con_entita": documenti_entita,
+            "documenti_con_leakage": documenti_leakage,
+            "document_leakage_rate_percent": (
+                round(100 * documenti_leakage / documenti_entita, 4)
+                if documenti_entita else 0.0
+            ),
+        })
+
+    # Ordina per metodo e leakage decrescente.
+    righe.sort(
+        key=lambda r: (
+            r["metodo"],
+            -r["menzioni_residue"],
+            -r["direct_leakage_rate_percent"],
+            r["entita_annotata"].casefold(),
+        )
+    )
+
+    output_csv.parent.mkdir(parents=True, exist_ok=True)
+
+    with output_csv.open(
+        "w", newline="", encoding="utf-8-sig"
+    ) as f:
+        writer = csv.DictWriter(f, fieldnames=colonne)
+        writer.writeheader()
+        writer.writerows(righe)
+
+    print(f"Dettaglio per entità salvato in: {output_csv}")
+    print(f"Righe generate: {len(righe)}")
+
+
+
 # ============================================================
 # MAIN
 # ============================================================
@@ -221,6 +389,7 @@ def main():
 
         documenti.append({
             "document_id": document_id,
+            "relative_path": relative_path,
             "menzioni": menzioni,
         })
 
@@ -313,6 +482,11 @@ def main():
         )
 
     print(f"\nRisultati salvati in:\n{OUTPUT_CSV}")
+
+    esporta_direct_leakage_per_entita(
+        documenti=documenti,
+        testi_anonimizzati_per_metodo=metodi,
+    )
 
 
 if __name__ == "__main__":
