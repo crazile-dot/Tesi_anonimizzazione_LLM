@@ -1,7 +1,0 @@
-﻿document_id,identita_vera,tfidf_originale_posizione_vera,tfidf_originale_primo_candidato,tfidf_anonimizzato_posizione_vera,tfidf_anonimizzato_primo_candidato,llm_anonimizzato_posizione_vera,llm_anonimizzato_primo_candidato,llm_anonimizzato_top1_corretto,llm_originale_posizione_vera,llm_originale_primo_candidato,llm_originale_top1_corretto,tfidf_originale_top1_corretto,tfidf_anonimizzato_top1_corretto
-test\enron7\mcconnell-m_all_documents_720,mike mcconnell,1,mike mcconnell,1,mike mcconnell,1,mike mcconnell,1,1,mike mcconnell,1,1,1
-test\enron7\neal-s_all_documents_207,scott neal,1,scott neal,4,errol mclaughlin,1,scott neal,1,1,scott neal,1,1,0
-test\enron7\neal-s_all_documents_226,scott neal,4,errol mclaughlin,4,errol mclaughlin,2,mike mcconnell,0,1,scott neal,1,0,0
-test\enron9\fossum-d_all_documents_436,drew fossum,1,drew fossum,1,drew fossum,1,drew fossum,1,1,drew fossum,1,1,1
-test\enron9\mcconnell-m_all_documents_915,mike mcconnell,1,mike mcconnell,1,mike mcconnell,1,mike mcconnell,1,1,mike mcconnell,1,1,1
-test\enron9\mclaughlin-e_all_documents_790,errol mclaughlin,1,errol mclaughlin,1,errol mclaughlin,1,errol mclaughlin,1,1,errol mclaughlin,1,1,1

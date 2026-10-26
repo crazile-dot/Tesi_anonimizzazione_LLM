@@ -1,7 +1,0 @@
-﻿document_id,identita_vera,posizione_originale,primo_candidato_originale,similarita_originale,posizione_anonimizzata,primo_candidato_anonimizzato,similarita_anonimizzata
-test\enron7\mcconnell-m_all_documents_720,mike mcconnell,1,mike mcconnell,0.529013,1,mike mcconnell,0.269662
-test\enron7\neal-s_all_documents_207,scott neal,1,scott neal,0.673183,4,errol mclaughlin,0.244917
-test\enron7\neal-s_all_documents_226,scott neal,4,errol mclaughlin,0.255993,4,errol mclaughlin,0.217429
-test\enron9\fossum-d_all_documents_436,drew fossum,1,drew fossum,0.605264,1,drew fossum,0.526029
-test\enron9\mcconnell-m_all_documents_915,mike mcconnell,1,mike mcconnell,0.3446,1,mike mcconnell,0.226186
-test\enron9\mclaughlin-e_all_documents_790,errol mclaughlin,1,errol mclaughlin,0.528235,1,errol mclaughlin,0.305448

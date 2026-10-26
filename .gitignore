@@ -11,6 +11,7 @@ __pycache__/
 
 # Dati e risultati della tesi
 data/raw/
+data/processed/
 
 
 # File locali e log
